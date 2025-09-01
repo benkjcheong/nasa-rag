@@ -1,4 +1,7 @@
 langchain-community
 langchain-ollama
+langchain
 numpy
 pandas
+sqlite3
+goatools
