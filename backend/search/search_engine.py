@@ -3,9 +3,13 @@ import sys
 import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from retrieval_methods import RetrievalMethods
-from reciprocal_rank_fusion import ReciprocalRankFusion
-from cross_encoder_reranker import CrossEncoderReranker, FeatureBasedScorer, MMRReranker, EvidenceReranker
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from search.retrieval_methods import RetrievalMethods
+from search.reciprocal_rank_fusion import ReciprocalRankFusion
+from search.cross_encoder_reranker import CrossEncoderReranker, FeatureBasedScorer, MMRReranker, EvidenceReranker
 from kg.kg_storage import KGStorage
 from thesaurus import BiologyThesaurus
 
@@ -28,21 +32,18 @@ class SpaceBiologySearchEngine:
         # Fit cross-encoder
         self.cross_encoder.fit(documents)
     
-    def search(self, query: str, top_k: int = 10, use_mmr: bool = True) -> List[Dict]:
-        """
-        Complete search pipeline with all retrieval methods and reranking
+    def search(self, query: str, top_k: int = 10, use_mmr: bool = False) -> List[Dict]:
+        print(f"DEBUG: Search query: {query}, top_k: {top_k}")
+        print(f"DEBUG: Documents count: {len(self.documents)}")
         
-        Args:
-            query: Search query
-            top_k: Number of results to return
-            use_mmr: Whether to use MMR for diversity
-        """
         # Step 1: Retrieve using all methods
         retrieval_results = self.retrieval.retrieve_all(query, top_k * 2)
+        print(f"DEBUG: Retrieval results: {retrieval_results}")
         
         # Step 2: Get evidence-based reranking for KG results
         query_terms = query.lower().split()
         evidence_results = self.evidence_reranker.get_top_evidence(query_terms, top_k)
+        print(f"DEBUG: Evidence results count: {len(evidence_results)}")
         
         # Add evidence results to retrieval results
         if evidence_results:
@@ -55,6 +56,7 @@ class SpaceBiologySearchEngine:
         
         # Step 3: Fuse rankings using RRF
         fused_results = self.rrf.fuse_retrieval_results(retrieval_results)
+        print(f"DEBUG: Fused results count: {len(fused_results)}")
         
         # Step 4: Cross-encoder reranking
         cross_reranked = self.cross_encoder.rerank(
@@ -62,6 +64,7 @@ class SpaceBiologySearchEngine:
             fused_results[:top_k * 2], 
             self.documents
         )
+        print(f"DEBUG: Cross-reranked count: {len(cross_reranked)}")
         
         # Step 5: Feature-based scoring enhancement
         enhanced_results = []
@@ -73,9 +76,11 @@ class SpaceBiologySearchEngine:
                 enhanced_results.append((item_id, final_score))
             else:
                 enhanced_results.append((item_id, score))
+        print(f"DEBUG: Enhanced results count: {len(enhanced_results)}")
         
         # Step 6: MMR for diversity (optional)
         if use_mmr:
+            print(f"DEBUG: Using MMR with {len(enhanced_results)} enhanced results")
             final_results = self.mmr.rerank_with_mmr(
                 query, 
                 enhanced_results, 
@@ -84,6 +89,8 @@ class SpaceBiologySearchEngine:
             )
         else:
             final_results = sorted(enhanced_results, key=lambda x: x[1], reverse=True)[:top_k]
+        print(f"DEBUG: Final results count: {len(final_results)}")
+        print(f"DEBUG: Final results: {final_results}")
         
         # Format results
         formatted_results = []
@@ -103,6 +110,7 @@ class SpaceBiologySearchEngine:
                     'type': 'knowledge_graph'
                 })
         
+        print(f"DEBUG: Formatted results count: {len(formatted_results)}")
         return formatted_results
     
     def get_method_results(self, query: str, top_k: int = 10) -> Dict:

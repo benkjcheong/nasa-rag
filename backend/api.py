@@ -6,21 +6,27 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 from search.search_engine import SpaceBiologySearchEngine
 from kg.kg_storage import KGStorage
+from kg.kg_builder import KnowledgeGraphBuilder
 
 app = Flask(__name__)
 CORS(app)
 
-# Initialize search engine
+# Initialize knowledge graph and search engine
 kg_storage = KGStorage('biology_kg.db')
-sample_docs = [
-    "Microgravity effects on plant growth and development in space experiments",
-    "Radiation exposure impacts on cellular DNA repair mechanisms",
-    "Bone density loss in astronauts during long-duration spaceflight",
-    "Muscle atrophy and countermeasures in zero gravity environments",
-    "Cardiovascular deconditioning in space and recovery protocols"
-]
 
-search_engine = SpaceBiologySearchEngine(sample_docs, kg_storage)
+# Check if KG is populated, if not, populate with sample data
+triples = kg_storage.get_evidence_triples_ranked(0.0)
+if not triples:
+    from populate_kg import populate_sample_data
+    populate_sample_data()
+
+# Get documents from KG evidence
+triples = kg_storage.get_evidence_triples_ranked(0.0)
+documents = [t.evidence for t in triples if t.evidence]
+if not documents:
+    documents = ["No knowledge graph data available"]
+
+search_engine = SpaceBiologySearchEngine(documents, kg_storage)
 
 @app.route('/api/search', methods=['POST'])
 def search():
@@ -55,6 +61,36 @@ def get_method_results():
         return jsonify({
             'query': query,
             'method_results': results
+        })
+    
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/api/kg/query', methods=['POST'])
+def query_kg():
+    try:
+        data = request.get_json()
+        term = data.get('term', '')
+        
+        if not term:
+            return jsonify({'error': 'Term is required'}), 400
+        
+        # Query KG by thesaurus term
+        triples = kg_storage.query_by_thesaurus_term(term)
+        
+        results = [{
+            'subject': t.subject,
+            'predicate': t.predicate,
+            'object': t.object,
+            'evidence': t.evidence,
+            'confidence': t.confidence,
+            'source_id': t.source_id
+        } for t in triples]
+        
+        return jsonify({
+            'term': term,
+            'triples': results,
+            'total': len(results)
         })
     
     except Exception as e:

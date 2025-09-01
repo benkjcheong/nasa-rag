@@ -5,6 +5,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import sys
 import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 from kg.kg_schema import EvidenceTriple
 from kg.kg_storage import KGStorage
 
@@ -153,7 +154,7 @@ class MMRReranker:
             return []
         
         # Fit vectorizer on all documents
-        all_docs = [documents[item_id] if isinstance(item_id, int) else str(item_id) 
+        all_docs = [documents[item_id] if isinstance(item_id, int) and item_id < len(documents) else str(item_id) 
                    for item_id, _ in candidates]
         doc_vectors = self.vectorizer.fit_transform(all_docs + [query])
         query_vector = doc_vectors[-1]

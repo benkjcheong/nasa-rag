@@ -3,7 +3,10 @@ from typing import List, Tuple
 from langchain_ollama import OllamaLLM
 from langchain.prompts import PromptTemplate
 from .kg_schema import BiologyKGSchema, Entity, Relation, EntityType, EvidenceTriple
-from .thesaurus import BiologyThesaurus
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from thesaurus import BiologyThesaurus
 
 class KnowledgeGraphBuilder:
     def __init__(self, model_name="gemma2:2b"):

@@ -141,3 +141,24 @@ class KGStorage:
         
         conn.close()
         return results
+    
+    def get_all_triples(self) -> List[EvidenceTriple]:
+        """Get all evidence triples from the database"""
+        conn = sqlite3.connect(self.db_path)
+        cursor = conn.cursor()
+        
+        cursor.execute("""
+            SELECT subject, predicate, object, evidence, confidence, source_id
+            FROM evidence_triples 
+            ORDER BY confidence DESC
+        """)
+        
+        results = []
+        for row in cursor.fetchall():
+            results.append(EvidenceTriple(
+                subject=row[0], predicate=row[1], object=row[2],
+                evidence=row[3], confidence=row[4], source_id=row[5]
+            ))
+        
+        conn.close()
+        return results
