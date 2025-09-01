@@ -1,5 +1,5 @@
-from kg_builder import KnowledgeGraphBuilder
-from kg_storage import KGStorage
+from kg.kg_builder import KnowledgeGraphBuilder
+from kg.kg_storage import KGStorage
 
 def main():
     builder = KnowledgeGraphBuilder()

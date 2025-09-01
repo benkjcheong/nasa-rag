@@ -2,8 +2,8 @@ import json
 from typing import List, Tuple
 from langchain_ollama import OllamaLLM
 from langchain.prompts import PromptTemplate
-from kg_schema import BiologyKGSchema, Entity, Relation, EntityType, EvidenceTriple
-from thesaurus import BiologyThesaurus
+from .kg_schema import BiologyKGSchema, Entity, Relation, EntityType, EvidenceTriple
+from .thesaurus import BiologyThesaurus
 
 class KnowledgeGraphBuilder:
     def __init__(self, model_name="gemma2:2b"):

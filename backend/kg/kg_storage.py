@@ -1,7 +1,7 @@
 import sqlite3
 import json
 from typing import List
-from kg_schema import BiologyKGSchema, Entity, Relation, EntityType, EvidenceTriple
+from .kg_schema import BiologyKGSchema, Entity, Relation, EntityType, EvidenceTriple
 
 class KGStorage:
     def __init__(self, db_path="biology_kg.db"):
