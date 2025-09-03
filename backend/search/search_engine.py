@@ -1,6 +1,7 @@
 from typing import List, Dict, Tuple
 import sys
 import os
+import numpy as np
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import sys
@@ -33,7 +34,8 @@ class SpaceBiologySearchEngine:
         self.cross_encoder.fit(documents)
     
     def search(self, query: str, top_k: int = 10, use_mmr: bool = False) -> List[Dict]:
-        print(f"DEBUG: Search query: {query}, top_k: {top_k}")
+        print(f"DEBUG: Search query: '{query}', top_k: {top_k}")
+        print(f"DEBUG: Query terms: {query.lower().split()}")
         print(f"DEBUG: Documents count: {len(self.documents)}")
         
         # Step 1: Retrieve using all methods
@@ -92,23 +94,81 @@ class SpaceBiologySearchEngine:
         print(f"DEBUG: Final results count: {len(final_results)}")
         print(f"DEBUG: Final results: {final_results}")
         
-        # Format results
+        # Format results - find document IDs and associated triples
         formatted_results = []
+        
         for item_id, score in final_results:
-            if isinstance(item_id, int) and item_id < len(self.documents):
-                formatted_results.append({
-                    'document_id': item_id,
-                    'document': self.documents[item_id][:500] + "..." if len(self.documents[item_id]) > 500 else self.documents[item_id],
+            print(f"DEBUG: Processing item_id: {item_id}, type: {type(item_id)}, score: {score}")
+            if (isinstance(item_id, (int, np.integer)) and int(item_id) < len(self.documents)):
+                print(f"DEBUG: Processing as document ID: {item_id}")
+                # Document result
+                doc_text = self.documents[int(item_id)]
+                result = {
+                    'document_id': int(item_id),
+                    'document': doc_text[:500] + "..." if len(doc_text) > 500 else doc_text,
                     'score': score,
                     'type': 'document'
-                })
+                }
+                print(f"DEBUG: Added document result for ID {item_id}")
+                formatted_results.append(result)
             else:
-                formatted_results.append({
-                    'item_id': item_id,
-                    'content': str(item_id),
-                    'score': score,
-                    'type': 'knowledge_graph'
-                })
+                # KG result - find associated document and triple
+                term = str(item_id)
+                print(f"DEBUG: Processing KG term: {term}")
+                
+                # Find triples containing this term
+                triples = self.kg_storage.get_evidence_triples_ranked(0.0)
+                print(f"DEBUG: Found {len(triples)} total triples for term '{term}'")
+                if len(triples) > 0:
+                    print(f"DEBUG: First triple example: {triples[0].subject} -> {triples[0].predicate} -> {triples[0].object}")
+                    print(f"DEBUG: First triple evidence: {triples[0].evidence[:100] if triples[0].evidence else 'None'}...")
+                matching_triple = None
+                doc_id = None
+                
+                for t in triples:
+                    # Check if term matches or if evidence contains the term
+                    term_match = (term.lower() in t.subject.lower() or 
+                                 term.lower() in t.object.lower() or
+                                 (t.evidence and term.lower() in str(t.evidence).lower()))
+                    
+                    if term_match or not matching_triple:  # Take first triple if no exact match
+                        matching_triple = t
+                        print(f"DEBUG: Checking triple for document match: {t.subject} -> {t.predicate} -> {t.object}")
+                        
+                        # Find document ID by matching evidence text
+                        for i, doc in enumerate(self.documents):
+                            if t.evidence and t.evidence.strip() in doc:
+                                doc_id = i
+                                print(f"DEBUG: Found document match at ID {doc_id}")
+                                break
+                        
+                        if doc_id is not None:
+                            break  # Found a match, stop looking
+                
+                if doc_id is not None and doc_id < len(self.documents):
+                    doc_text = self.documents[doc_id]
+                    result = {
+                        'document_id': doc_id,
+                        'document': doc_text[:500] + "..." if len(doc_text) > 500 else doc_text,
+                        'score': score,
+                        'type': 'document_with_triple'
+                    }
+                    if matching_triple:
+                        result['triple'] = {
+                            'subject': matching_triple.subject,
+                            'predicate': matching_triple.predicate,
+                            'object': matching_triple.object,
+                            'confidence': matching_triple.confidence
+                        }
+                    formatted_results.append(result)
+                else:
+                    # Fallback for terms without document match
+                    print(f"DEBUG: No document match found for term '{term}', using fallback")
+                    formatted_results.append({
+                        'term': term,
+                        'score': score,
+                        'type': 'knowledge_graph_term'
+                    })
         
         print(f"DEBUG: Formatted results count: {len(formatted_results)}")
         return formatted_results

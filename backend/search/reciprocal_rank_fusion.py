@@ -49,24 +49,11 @@ class ReciprocalRankFusion:
         Args:
             retrieval_results: Results from RetrievalMethods.retrieve_all()
         """
-        # Normalize different result formats to (item, score) tuples
+        # All methods now return (doc_id, score) tuples for articles
         normalized_rankings = {}
         
-        # Sparse and Dense results: (doc_idx, score)
-        for method in ['sparse', 'dense']:
-            if method in retrieval_results:
+        for method in ['sparse', 'dense', 'gnn']:
+            if method in retrieval_results and retrieval_results[method]:
                 normalized_rankings[method] = retrieval_results[method]
-        
-        # KG Thesaurus results: convert to (triple_str, confidence)
-        if 'kg_thesaurus' in retrieval_results:
-            kg_results = []
-            for result in retrieval_results['kg_thesaurus']:
-                triple_str = f"{result['triple'][0]}_{result['triple'][1]}_{result['triple'][2]}"
-                kg_results.append((triple_str, result['confidence']))
-            normalized_rankings['kg_thesaurus'] = kg_results
-        
-        # GNN results: already in (node, score) format
-        if 'gnn' in retrieval_results:
-            normalized_rankings['gnn'] = retrieval_results['gnn']
         
         return self.fuse_rankings(normalized_rankings)

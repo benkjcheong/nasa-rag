@@ -106,11 +106,25 @@ class RetrievalMethods:
         self.gnn = GNNClassifier(kg_storage)
         self.documents = documents
     
+    def gnn_guided_sparse_search(self, query: str, top_k: int = 10) -> List[Tuple[int, float]]:
+        """Use GNN to find KG entities, then sparse search articles containing those entities"""
+        # Get relevant KG entities from GNN
+        gnn_entities = self.gnn.classify_relevance(query.split(), top_k)
+        
+        if not gnn_entities:
+            return []
+        
+        # Create expanded query from top GNN entities
+        entity_terms = [entity for entity, _ in gnn_entities[:5]]  # Top 5 entities
+        expanded_query = query + " " + " ".join(entity_terms)
+        
+        # Perform sparse search with expanded query
+        return self.sparse.search(expanded_query, top_k)
+    
     def retrieve_all(self, query: str, top_k: int = 10) -> Dict[str, List]:
         """Run all retrieval methods and return results"""
         return {
             'sparse': self.sparse.search(query, top_k),
-            'kg_thesaurus': self.kg_thesaurus.search(query, top_k),
             'dense': self.dense.search(query, top_k),
-            'gnn': self.gnn.classify_relevance(query.split(), top_k)
+            'gnn': self.gnn_guided_sparse_search(query, top_k)
         }
