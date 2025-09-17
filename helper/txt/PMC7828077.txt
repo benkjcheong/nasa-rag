@@ -209,48 +209,4 @@ All mouse experiments were approved by the Institutional Animal Care and Use Com
 Not applicable.Data Availability Statement
 Not applicable.Conflicts of Interest
 The authors declare no conflict of interest.Footnotes
-Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.References
-1.Afshinnekoo E., Scott R.T., MacKay M.J., Pariset E., Cekanaviciute E., Barker R., Gilroy S., Hassane D., Smith S.M., Zwart S.R. Fundamental Biological Features of Spaceflight: Advancing the Field to Enable Deep-Space Exploration. Cell. 2020;183:1162–1184. doi: 10.1016/j.cell.2020.10.050. [DOI] [PMC free article] [PubMed] [Google Scholar]
-2.Berrios D.C., Galazka J., Grigorev K., Gebre S., Costes S.V. NASA GeneLab: Interfaces for the exploration of space omics data. Nucleic Acids Res. 2021;49:D1515–D1522. doi: 10.1093/nar/gkaa887. [DOI] [PMC free article] [PubMed] [Google Scholar]
-3.Rutter L., Barker R., Bezdan D., Cope H., Costes S.V., Degoricija L., Fisch K.M., Gabitto M.I., Gebre S., Giacomello S. A New Era for Space Life Science: International Standards for Space Omics Processing. Patterns. 2020;1:100148. doi: 10.1016/j.patter.2020.100148. [DOI] [PMC free article] [PubMed] [Google Scholar]
-4.da Silveira W., Fazelinia H., Rosenthal S.B., Laiakis E., Meydan C., Kidane Y., Smith S.M., Rathi K.S., Foox J., Zanello S. Multi-Omics Analysis Reveals Mitochondrial Stress as a Central Hub for Spaceflight Biological Impact. Cell. 2020;183:1185–1201. doi: 10.1016/j.cell.2020.11.002. [DOI] [PMC free article] [PubMed] [Google Scholar]
-5.Malkani S., Chin C.R., Cekanaviciute E., Mortreux M., Okinula H., Tarbier M., Schreurs A.S., Shirazi-Fard Y., Tahimic C.G.T., Rodriguez D.N., et al.  Circulating miRNA Spaceflight Signature Reveals Targets for Countermeasure Development. Cell Rep. 2020:108448. doi: 10.1016/j.celrep.2020.108448. [DOI] [PMC free article] [PubMed] [Google Scholar]
-6.Barabasi A.L., Gulbahce N., Loscalzo J. Network medicine: A network-based approach to human disease. Nat. Rev. Genet. 2011;12:56–68. doi: 10.1038/nrg2918. [DOI] [PMC free article] [PubMed] [Google Scholar]
-7.Goh K.I., Cusick M.E., Valle D., Childs B., Vidal M., Barabasi A.L. The human disease network. Proc. Natl. Acad. Sci. USA. 2007;104:8685–8690. doi: 10.1073/pnas.0701361104. [DOI] [PMC free article] [PubMed] [Google Scholar]
-8.Nicholson D.N., Greene C.S. Constructing knowledge graphs and their biomedical applications. Comput. Struct. Biotechnol. J. 2020;18:1414–1428. doi: 10.1016/j.csbj.2020.05.017. [DOI] [PMC free article] [PubMed] [Google Scholar]
-9.Wang L., Matsushita T., Madireddy L., Mousavi P., Baranzini S.E. PINBPA: Cytoscape app for network analysis of GWAS data. Bioinformatics. 2015;31:262–264. doi: 10.1093/bioinformatics/btu644. [DOI] [PubMed] [Google Scholar]
-10.Zhou X., Menche J., Barabasi A.L., Sharma A. Human symptoms-disease network. Nat. Commun. 2014;5:4212. doi: 10.1038/ncomms5212. [DOI] [PubMed] [Google Scholar]
-11.Himmelstein D.S., Baranzini S.E. Heterogeneous Network Edge Prediction: A Data Integration Approach to Prioritize Disease-Associated Genes. PLoS Comput. Biol. 2015;11:e1004259.  doi: 10.1371/journal.pcbi.1004259. [DOI] [PMC free article] [PubMed] [Google Scholar]
-12.Himmelstein D.S., Lizee A., Hessler C., Brueggeman L., Chen S.L., Hadley D., Green A., Khankhanian P., Baranzini S.E. Systematic integration of biomedical knowledge prioritizes drugs for repurposing. Elife. 2017;6:e26726. doi: 10.7554/eLife.26726. [DOI] [PMC free article] [PubMed] [Google Scholar]
-13.Krueger F.  A Wrapper Tool around Cutadapt and FastQC to Consistently Apply Quality and Adapter Trimming to FastQ Files. Volume 516. Babraham Bioinformatics; Cambridge, UK: 2015. Trim galore; p. 517. [Google Scholar]
-14.Andrews S.  FastQC: A Quality Control Tool for High Throughput Sequence Data. Babraham Bioinformatics, Babraham Institute; Cambridge, UK: 2010.  [Google Scholar]
-15.Ewels P., Magnusson M., Lundin S., Käller M. MultiQC: Summarize analysis results for multiple tools and samples in a single report. Bioinformatics. 2016;32:3047–3048. doi: 10.1093/bioinformatics/btw354. [DOI] [PMC free article] [PubMed] [Google Scholar]
-16.Dobin A., Davis C.A., Schlesinger F., Drenkow J., Zaleski C., Jha S., Batut P., Chaisson M., Gingeras T.R. STAR: Ultrafast universal RNA-seq aligner. Bioinformatics. 2013;29:15–21. doi: 10.1093/bioinformatics/bts635. [DOI] [PMC free article] [PubMed] [Google Scholar]
-17.Li B., Dewey C.N. RSEM: Accurate transcript quantification from RNA-Seq data with or without a reference genome. BMC Bioinform. 2011;12:323.  doi: 10.1186/1471-2105-12-323. [DOI] [PMC free article] [PubMed] [Google Scholar]
-18.R Core Team  . R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing; Vienna, Austria: 2013.  [Google Scholar]
-19.Munro S.A., Lund S.P., Pine P.S., Binder H., Clevert D.A., Conesa A., Dopazo J., Fasold M., Hochreiter S., Hong H., et al.  Assessing technical performance in differential gene expression experiments with external spike-in RNA control ratio mixtures. Nat. Commun. 2014;5:5125. doi: 10.1038/ncomms6125. [DOI] [PubMed] [Google Scholar]
-20.Love M.I., Huber W., Anders S. Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biol. 2014;15:550. doi: 10.1186/s13059-014-0550-8. [DOI] [PMC free article] [PubMed] [Google Scholar]
-21.Sievert C.  Interactive Web-Based Data Visualization with R, Plotly, and Shiny. CRC Press; Boca Raton, FL, USA: 2020.  [Google Scholar]
-22.Lebsack T.  In: Microarray Analysis of Space-Flown Murine Thymus Tissue. 4th ed. NASA GeneLab, editor. NASA GeneLab; Washington, DC, USA: 2010.  [DOI] [Google Scholar]
-23.Ashburner M., Ball C.A., Blake J.A., Botstein D., Butler H., Cherry J.M., Davis A.P., Dolinski K., Dwight S.S., Eppig J.T., et al.  Gene ontology: Tool for the unification of biology. The Gene Ontology Consortium. Nat. Genet. 2000;25:25–29. doi: 10.1038/75556. [DOI] [PMC free article] [PubMed] [Google Scholar]
-24.Mi H., Muruganujan A., Ebert D., Huang X., Thomas P.D. PANTHER version 14: More genomes, a new PANTHER GO-slim and improvements in enrichment analysis tools. Nucleic Acids Res. 2019;47:D419–D426. doi: 10.1093/nar/gky1038. [DOI] [PMC free article] [PubMed] [Google Scholar]
-25.The Gene Ontology Consortium  The Gene Ontology Resource: 20 years and still GOing strong. Nucleic Acids Res. 2019;47:D330–D338. doi: 10.1093/nar/gky1055. [DOI] [PMC free article] [PubMed] [Google Scholar]
-26.Page L., Brin S., Motwani R., Winograd T.  The PageRank Citation Ranking: Bringing Order to the Web. Stanford InfoLab; Stanford, CA, USA: 1999.  [Google Scholar]
-27.Haveliwala T.H. Topic-sensitive pagerank; Proceedings of the 11th International Conference on World Wide Web; Honolulu, HI, USA. 7–11 May 2002; pp. 517–526. [Google Scholar]
-28.Nelson C.A., Butte A.J., Baranzini S.E. Integrating biomedical research and electronic health records to create knowledge-based biologically meaningful machine-readable embeddings. Nat. Commun. 2019;10:3045. doi: 10.1038/s41467-019-11069-0. [DOI] [PMC free article] [PubMed] [Google Scholar]
-29.Sayers E.W., Agarwala R., Bolton E.E., Brister J.R., Canese K., Clark K., Connor R., Fiorini N., Funk K., Hefferon T., et al.  Database resources of the National Center for Biotechnology Information. Nucleic Acids Res. 2019;47:D23–D28. doi: 10.1093/nar/gky1069. [DOI] [PMC free article] [PubMed] [Google Scholar]
-30.Stouffer S.A., Suchman E.A., DeVinney L.C., Star S.A., Williams R.M., Jr.  The American Soldier: Adjustment during Army Life. (Studies in Social Psychology in World War II) Volume 1 Princeton University Press; Princeton, NJ, USA: 1949.  [Google Scholar]
-31.Lukacs-Kornek V. The Role of Lymphatic Endothelial Cells in Liver Injury and Tumor Development. Front. Immunol. 2016;7:548. doi: 10.3389/fimmu.2016.00548. [DOI] [PMC free article] [PubMed] [Google Scholar]
-32.Mann H.B., Whitney D.R. On a test of whether one of two random variables is stochastically larger than the other. Ann. Math. Stat. 1947;18:50–60. doi: 10.1214/aoms/1177730491. [DOI] [Google Scholar]
-33.Lebsack T.W., Fa V., Woods C.C., Gruener R., Manziello A.M., Pecaut M.J., Gridley D.S., Stodieck L.S., Ferguson V.L., Deluca D. Microarray analysis of spaceflown murine thymus tissue reveals changes in gene expression regulating stress and glucocorticoid receptors. J. Cell. Biochem. 2010;110:372–381. doi: 10.1002/jcb.22547. [DOI] [PubMed] [Google Scholar]
-34.Scott R.T., Grigorev K., Mackintosh G., Gebre S.G., Mason C.E., Del Alto M.E., Costes S.V. Advancing the Integration of Biosciences Data Sharing to Further Enable Space Exploration. Cell Rep. 2020;33:108441. doi: 10.1016/j.celrep.2020.108441. [DOI] [PubMed] [Google Scholar]
-35.Reynolds R.J., Shelhamer M.  Beyond LEO-Human Health Issues for Deep Space Exploration. IntechOpen; London, UK: 2020. Introductory Chapter: Research Methods for the Next 60 Years of Space Exploration. [Google Scholar]
-36.Antonsen E.L., Reed R.D. Policy Considerations for Precision Medicine in Human Spaceflight. Houst. J. Health Law Policy. 2019;19:1–35. [Google Scholar]
-37.Antonsen E., Reynolds R.  Risk Mapping and Interaction Approach: A Special Session for HSRB Risk Custodians. NASA; Washington, DC, USA: 2020.  [Google Scholar]
-Associated Data
-This section collects any data citations, data availability statements, or supplementary materials included in this article.
-Supplementary Materials
-Click here for additional data file. (4MB, zip)
-Data Availability Statement
-Not applicable.
-Articles from Life are provided here courtesy of Multidisciplinary Digital Publishing Institute  (MDPI)
+Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.

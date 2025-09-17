@@ -597,24 +597,4 @@ Inconsistent data between experiments (step 27).Potential solution
 Given that Q-FISH is an intensity-based measurement, experimental samples are ideally measured at the same time with the same exposure settings. If too many samples are present, fading can occur between sample sets that would confound downstream analysis. Thus, it is optimal to image all experimental groups as soon as possible, and comparisons between different experiments are not possible. Additionally, telomere probe in hybridization buffer should completely cover the sample without any air bubbles. While the values themselves may be different, due to inherent differences between experimental preparations, calculations of percent difference between groups can be useful in confirming that datasets are similar.Resource availability
 Lead contact
 Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Foteini Mourkioti (fmour@pennmedicine.upenn.edu).Materials availability
-This study did not generate new materials or unique reagents.Acknowledgments
-We thank both Jim Morgan and Alan Meeker (Johns Hopkins) for the current version of Telometer. This work was supported by the NASA (18-FG_ind_2–0022) and the NIH (R01HL146662) to F.M.
-Author contributions
-E.D.T. designed and performed experiments, developed, and optimized the protocol, and wrote the manuscript. F.M. designed experiments, interpreted data, and wrote the manuscript.Declaration of interests
-The authors declare no competing interests.Contributor Information
-Elisia D. Tichy, Email: etichy@pennmedicine.upenn.edu.
-Foteini Mourkioti, Email: fmour@pennmedicine.upenn.edu.Data and code availability
-This study did not generate any unique data sets or code.References
-Cawthon R.M. Telomere measurement by quantitative PCR. Nucleic Acids Res. 2002;30:e47. doi: 10.1093/nar/30.10.e47. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Liu L., Cheung T.H., Charville G.W., Rando T.A. Isolation of skeletal muscle stem cells by fluorescence-activated cell sorting. Nat. Protoc. 2015;10:1612–1624. doi: 10.1038/nprot.2015.110. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Maesner C.C., Almada A.E., Wagers A.J. Established cell surface markers efficiently isolate highly overlapping populations of skeletal muscle satellite cells by fluorescence-activated cell sorting. Skelet. Muscle. 2016;6:35. doi: 10.1186/s13395-016-0106-6. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Matthiesen S.H., Hansen C.M. Fast and non-toxic in situ hybridization without blocking of repetitive sequences. PLoS One. 2012;7:e40675. doi: 10.1371/journal.pone.0040675. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Mender I., Shay J.W. Telomere restriction fragment (TRF) analysis. Bio Protoc. 2015;5:e1658. doi: 10.21769/bioprotoc.1658. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Sacco A., Mourkioti F., Tran R., Choi J., Llewellyn M., Kraft P., Shkreli M., Delp S., Pomerantz J.H., Artandi S.E. Short telomeres and stem cell exhaustion model Duchenne muscular dystrophy in mdx/mTR mice. Cell. 2010;143:1059–1071. doi: 10.1016/j.cell.2010.11.039. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Tichy E.D., Ma N., Sidibe D., Loro E., Kocan J., Chen D.Z., Khurana T.S., Hasty P., Mourkioti F. Persistent NF-kappaB activation in muscle stem cells induces proliferation-independent telomere shortening. Cell Rep. 2021;35:109098. doi: 10.1016/j.celrep.2021.109098. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Tichy E.D., Sidibe D.K., Tierney M.T., Stec M.J., Sharifi-Sanjani M., Hosalkar H., Mubarak S., Johnson F.B., Sacco A., Mourkioti F. Single stem cell imaging and analysis reveals telomere length differences in diseased human and mouse skeletal muscles. Stem Cell Rep. 2017;9:1328–1341. doi: 10.1016/j.stemcr.2017.08.003. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Associated Data
-This section collects any data citations, data availability statements, or supplementary materials included in this article.
-Data Availability Statement
-This study did not generate any unique data sets or code.
-Articles from STAR Protocols are provided here courtesy of Elsevier
+This study did not generate new materials or unique reagents.

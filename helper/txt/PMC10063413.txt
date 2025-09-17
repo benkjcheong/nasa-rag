@@ -117,37 +117,4 @@ Drafting manuscript: LS, RT, UI
 Revising manuscript content: LS, CW, AB, DO, AA, RT, and UI
 Approving final version: LS, CW, AB, AA, RT, and UI
 RT takes responsibility for the integrity of the data.Declaration of competing interest
-The authors declare no competing interests.Acknowledgments
-We would like to acknowledge our co-author, Dawn Olson, who passed away in August 2022 while this manuscript was in preparation.Data availability
-Data will be made available on request.References
-Bal N.C., Periasamy M. Uncoupling of sarcoendoplasmic reticulum calcium ATPase pump activity by sarcolipin as the basis for muscle non-shivering thermogenesis. Philos. Trans. R. Soc., B. 2020;375 doi: 10.1098/rstb.2019.0135. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Benjamini Y., Hochberg Y. Controlling the false discovery rate: a practical and powerful approach to multiple testing. J. R. Stat. Soc. Ser. B Methodol. 1995;57:289–300. [Google Scholar]
-Choi S.Y., et al.  Validation of a new rodent experimental system to investigate consequences of long duration space habitation. Sci. Rep. 2020;10:2336. doi: 10.1038/s41598-020-58898-4. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Fu J., et al.  Bone health in spacefaring rodents and primates: systematic review and meta-analysis. npj Microgravity. 2021;7:1–14. doi: 10.1038/s41526-021-00147-7. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Gaskill B.N., et al.  Energy reallocation to breeding performance through improved nest building in laboratory mice. PLOS ONE. 2013;8 doi: 10.1371/journal.pone.0074153. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Glatt V., Canalis E., Stadmeyer L., Bouxsein M.L. Age-related changes in trabecular architecture differ in female and male C57BL/6J mice. J. Bone Miner. Res. 2007;22:1197–1207. doi: 10.1359/jbmr.070507. [DOI] [PubMed] [Google Scholar]
-Grimm D., et al.  The impact of microgravity on bone in humans. Bone. 2016;87:44–56. doi: 10.1016/j.bone.2015.12.057. [DOI] [PubMed] [Google Scholar]
-Iwaniec U.T., et al.  Room temperature housing results in premature cancellous bone loss in growing female mice: implications for the mouse as a preclinical model for age-related bone loss. Osteoporos. Int. 2016;27:3091–3101. doi: 10.1007/s00198-016-3634-3. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Keune J.A., Branscum A.J., Wong C.P., Iwaniec U.T., Turner R.T. Effect of leptin deficiency on the skeletal response to hindlimb unloading in adult male mice. Sci. Rep. 2019;9:9336. doi: 10.1038/s41598-019-45587-0. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Klingenspor M. Cold-induced recruitment of brown adipose tissue thermogenesis. Exp. Physiol. 2003;88:141–148. doi: 10.1113/eph8802508. [DOI] [PubMed] [Google Scholar]
-Kunst R.F., Langlais A.L., Barlow D., Houseknecht K.L., Motyl K.J. Housing temperature influences atypical antipsychotic drug-induced bone loss in female c57bl/6j mice. JBMR Plus. 2021;5 doi: 10.1002/jbm4.10541. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Liu N., et al.  Single housing-induced effects on cognitive impairment and depression-like behavior in male and female mice involve neuroplasticity-related signaling. Eur. J. Neurosci. 2020;52:2694–2704. doi: 10.1111/ejn.14565. [DOI] [PubMed] [Google Scholar]
-Maher R.L., Barbash S.M., Lynch D.V., Swoap S.J. Group housing and nest building only slightly ameliorate the cold stress of typical housing in female C57BL/6J mice. Am. J. Phys. Regul. Integr. Comp. Phys. 2015;308:R1070–R1079. doi: 10.1152/ajpregu.00407.2014. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Martin S.A., et al.  Thermoneutral housing attenuates premature cancellous bone loss in male C57BL/6J mice. Endocr. Connect. 2019;8:1455–1467. doi: 10.1530/EC-19-0359. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Morey-Holton E.R., Globus R.K. Hindlimb unloading rodent model: technical aspects. J. Appl. Physiol. (1985) 2002;92 doi: 10.1152/japplphysiol.00969.2001. [DOI] [PubMed] [Google Scholar]
-National Research Council (US) Committee for the Update of the Guide for the Care and Use of Laboratory Animals  . National Academies Press; US: 2011. Guide for the Care and Use of Laboratory Animals. [PubMed] [Google Scholar]
-Nguyen A.D., et al.  Uncoupling protein-1 is protective of bone mass under mild cold stress conditions. Bone. 2018;106:167–178. doi: 10.1016/j.bone.2015.05.037. [DOI] [PubMed] [Google Scholar]
-R Core Team  . 2019. R: A Language Environment for Statistical Computing. [Google Scholar]
-Robbins A., et al.  Low temperature decreases bone mass in mice: implications for humans. Am. J. Phys. Anthropol. 2018;167:557–568. doi: 10.1002/ajpa.23684. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Škop V., et al.  Mouse thermoregulation: introducing the concept of the thermoneutral point. Cell Rep. 2020;31 doi: 10.1016/j.celrep.2020.03.065. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Speakman J.R., Keijer J. Not so hot: optimal housing temperatures for mice to mimic the thermal environment of humans. Mol. Metab. 2013;2:5–9. doi: 10.1016/j.molmet.2012.10.002. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Swoap S.J. The pharmacology and molecular mechanisms underlying temperature regulation and torpor. Biochem. Pharmacol. 2008;76:817–824. doi: 10.1016/j.bcp.2008.06.017. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Turner R.T., et al.  Effects of propranolol on bone, white adipose tissue, and bone marrow adipose tissue in mice housed at room temperature or thermoneutral temperature. Front. Endocrinol. 2020;11 doi: 10.3389/fendo.2020.00117. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Vialard F., Olivier M. Thermoneutrality and immunity: how does cold stress affect disease? Front. Immunol. 2020;11 doi: 10.3389/fimmu.2020.588387. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Wong C.P., Iwaniec U.T., Turner R.T. Evidence for increased thermogenesis in female C57BL/6J mice housed aboard the international space station. npj Microgravity. 2021;7:1–4. doi: 10.1038/s41526-021-00150-y. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Wong, C.P., et al. Cold stress during room temperature housing alters skeletal response to simulated microgravity (hindlimb unloading) in growing female C57BL6 mice. Biochimie (In Press). [DOI] [PubMed]
-Associated Data
-This section collects any data citations, data availability statements, or supplementary materials included in this article.
-Data Availability Statement
-Data will be made available on request.
-Articles from Bone Reports are provided here courtesy of Elsevier
+The authors declare no competing interests.

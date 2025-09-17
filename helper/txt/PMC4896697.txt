@@ -40,19 +40,3 @@ We acknowledge that different groups have concluded different proportions of HGT
 Footnotes
 The authors declare no conflict of interest.
 Data deposition: Additional data, methods, and results of our new analyses, and more detailed responses to letters (2, 3), are available at https://github.com/Hd-tg-genome/PNAS_response.
-References
-1.Boothby TC, et al.  Evidence for extensive horizontal gene transfer from the draft genome of a tardigrade. Proc Natl Acad Sci USA. 2015;112(52):15976–15981. doi: 10.1073/pnas.1510461112. [DOI] [PMC free article] [PubMed] [Google Scholar]
-2.Bemm F, Weiß CL, Schultz J, Förster F. Genome of a tardigrade: Horizontal gene transfer or bacterial contamination? Proc Natl Acad Sci USA. 2016;113:E3054–E3056. doi: 10.1073/pnas.1525116113. [DOI] [PMC free article] [PubMed] [Google Scholar]
-3.Arakawa K. No evidence for extensive horizontal gene transfer from the draft genome of a tardigrade. Proc Natl Acad Sci USA. 2016;113:E3057. doi: 10.1073/pnas.1602711113. [DOI] [PMC free article] [PubMed] [Google Scholar]
-4.Delmont TO, Eren AM. Identifying contamination with advanced visualization and analysis practices: Metagenomic approaches for eukaryotic genome assemblies. PeerJ. 2016;4:e1839. doi: 10.7717/peerj.1839. [DOI] [PMC free article] [PubMed] [Google Scholar]
-5.Koutsovoulos G, et al.  No evidence for extensive horizontal gene transfer in the genome of the tardigrade Hypsibius dujardini. Proc Natl Acad Sci USA. 2016;113(18):5053–5058. doi: 10.1073/pnas.1600338113. [DOI] [PMC free article] [PubMed] [Google Scholar]
-6.Eren AM, et al.  Anvi’o: An advanced analysis and visualization platform for 'omics data. PeerJ. 2015;3:e1319. doi: 10.7717/peerj.1319. [DOI] [PMC free article] [PubMed] [Google Scholar]
-7.Kumar S, Jones M, Koutsovoulos G, Clarke M, Blaxter M. Blobology: Exploring raw genome data for contaminants, symbionts and parasites using taxon-annotated GC-coverage plots. Front Genet. 2013;4:237. doi: 10.3389/fgene.2013.00237. [DOI] [PMC free article] [PubMed] [Google Scholar]
-8.Boschetti C, et al.  Biochemical diversification through foreign gene expression in bdelloid rotifers. PLoS Genet. 2012;8(11):e1003035. doi: 10.1371/journal.pgen.1003035. [DOI] [PMC free article] [PubMed] [Google Scholar]
-9.Crisp A, Boschetti C, Perry M, Tunnacliffe A, Micklem G. Expression of multiple horizontally acquired genes is a hallmark of both vertebrate and invertebrate genomes. Genome Biol. 2015;16(1):50. doi: 10.1186/s13059-015-0607-3. [DOI] [PMC free article] [PubMed] [Google Scholar]
-10.Gladyshev EA, Meselson M, Arkhipova IR. Massive horizontal gene transfer in bdelloid rotifers. Science. 2008;320(5880):1210–1213. doi: 10.1126/science.1156407. [DOI] [PubMed] [Google Scholar]
-11.Eyres I, et al.  Horizontal gene transfer in bdelloid rotifers is ancient, ongoing and more frequent in species from desiccating habitats. BMC Biol. 2015;13(1):90. doi: 10.1186/s12915-015-0202-9. [DOI] [PMC free article] [PubMed] [Google Scholar]
-12.Dunning Hotopp JC, et al.  Widespread lateral gene transfer from intracellular bacteria to multicellular eukaryotes. Science. 2007;317(5845):1753–1756. doi: 10.1126/science.1142490. [DOI] [PubMed] [Google Scholar]
-13.Klasson L, et al.  Extensive duplication of the Wolbachia DNA in chromosome four of Drosophila ananassae. BMC Genomics. 2014;15(1):1097. doi: 10.1186/1471-2164-15-1097. [DOI] [PMC free article] [PubMed] [Google Scholar]
-14.Kumar N, et al.  Efficient subtraction of insect rRNA prior to transcriptome analysis of Wolbachia-Drosophila lateral gene transfer. BMC Res Notes. 2012;5(1):230. doi: 10.1186/1756-0500-5-230. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Articles from Proceedings of the National Academy of Sciences of the United States of America are provided here courtesy of National Academy of Sciences

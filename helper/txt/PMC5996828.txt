@@ -100,48 +100,4 @@ qPCR
 UBQ11-R
 GTGATGGTCTTTCCGGTCAAA
 Open in a new tab2. Experimental design, materials and methods
-Arabidopsis seeds of wild type Columbia-0 (Col-0) and SALK_063500 were obtained from the Arabidopsis Biological Resource Center [1]. Plants were grown in the growth chambers on soil at 22 °C under constant light at approaximately 80 μmol m−2 s−1. In the search for a homozygous T-DNA insertion line from SALK_063500, over a thousand progeny of the heterozygous SALK_063500 line were screened and 110 are presented in Fig. 1B. AT1G05290-LP and AT1G05290-RP primers were used to amplify the wild type allele band (991 bp) while LBa1 and AT1G05290-RP primers were used to amplify the T-DNA band (440–740 bp). No homozygous T-DNA allele lines were found. For gene expression analysis, Col-0 and SALK_063500 seeds were grown on 0.5% PhytagelTM plates (0.5× Murashige and Skoog (MS) salts [Invitrogen] containing 0.5% (w/v) sucrose, was adjusted to pH 5.72 with 1N KOH and solidified with 0.5% (w/v) PhytagelTM [Sigma]) at 22 °C under constant light condition [2]. The 12 day old plants were harvested from Phytagel plates and directly preserved in RNALater [Ambion] until ready for RNA extraction. Total RNA was extracted using the RNAeasy kits [Qiagen] according to the manufacturer's instructions. CDNA was transcribed from total RNA, using the High Capacity RNA to cDNA kit [Applied Biosystems] and RT-qPCR analysis was conducted with SYBR Green master mix [Applied Biosystems]. The 2−ΔΔCt method was used to calculate the relative expression of At1g05290 using UBQ11 (AT4G0505) as an internal control. A total of 6 replicates were used for each sample. For silique phenotypes, 30 siliques from three individuals representing the genotype were collected, imaged under the Olympus stereo dissecting microscope (SZH10) and measured using image J [3], [4]. For in vitro pollen germination studies, mature pollen was harvested from flowers left at room temperate for 2 h, and then grown overnight on slides coated with solid pollen germinating media (18% Sucrose, 0.01% Boric Acid, 1 mM CaCl2, 1 mM Ca(NO3)2, 1 mM MgSO4 and 0.5% Noble agar [Difco] was adjusted to pH 7.0 [5]. Pollen germination studies done in vivo were performed by collecting pollinated pistils 6 h after pollination and briefly fixed in ethanol:acetic acid (3:1) for 2 h at room temperature. Fixed pistils were then washed with distilled water three times and further treated in 8 M NaOH overnight. Pistil tissues were then washed in distilled water and stained with aniline blue solution (0.1% aniline blue in 0.1 M K2HPO4-KOH buffer, pH 11) for 5 h in the dark before being viewed under the Olympus BX51 compound light microscope [6].Acknowledgements
-Authors would like to thank the UF Space Plants lab. This work was supported by the NASA Space Life and Physical Sciences (SLPS) grants NNX09AL96G, NNX07AH270, NNX12AN69G and NNX14AT24G awarded to RJF and A-LP.Footnotes
-Transparency documentTransparency data associated with this article can be found in the online version at h10.1016/j.dib.2018.03.107.
-Appendix ASupplementary data associated with this article can be found in the online version at 10.1016/j.dib.2018.03.107.
-Transparency document. Supplementary material
-Supplementary material
-mmc1.docx (10KB, docx)
-.Appendix A. Supplementary material
-Supplementary material
-mmc2.xlsx (14.9KB, xlsx)
-.
-Supplementary material
-mmc3.xlsx (16.8KB, xlsx)
-.
-Supplementary material
-mmc4.xlsx (19.3KB, xlsx)
-.
-Supplementary material
-mmc5.xlsx (14.8KB, xlsx)
-.
-Supplementary material
-mmc6.xlsx (20KB, xlsx)
-.References
-1.Lamesch P., Berardini T.Z., Li D., Swarbreck D., Wilks C., Sasidharan R., Muller R., Dreher K., Alexander D.L., Garcia-Hernandez M. The Arabidopsis Information Resource (TAIR): improved gene annotation and new tools. Nucleic Acids Res. 2012;40:D1202. doi: 10.1093/nar/gkr1090. [DOI] [PMC free article] [PubMed] [Google Scholar]
-2.Sng N., Callaham J., Ferl R.J., Paul A.-L. Arabidopsis thaliana for spaceflight applications –preparing dormant biology for passive stowage and on orbit activation. Gravit. Space Res. 2014;2:2. [Google Scholar]
-3.Paul A.-L., Daugherty C.J., Bihn E.A., Chapman D.K., Norwood K.L., Ferl R.J. Transgene expression patterns indicate that spaceflight affects stress signal perception and transduction in arabidopsis. Plant Physiol. 2001;126:613. doi: 10.1104/pp.126.2.613. [DOI] [PMC free article] [PubMed] [Google Scholar]
-4.Schneider C.A., Rasband W.S., Eliceiri K.W. NIH Image to ImageJ: 25 years of image analysis. Nat. methods. 2012;9:671. doi: 10.1038/nmeth.2089. [DOI] [PMC free article] [PubMed] [Google Scholar]
-5.Li H., Lin Y., Heath R.M., Zhu M.X., Yang Z. Control of pollen tube tip growth by a Rop GTPase-dependent pathway that leads to tip-localized calcium influx. Plant Cell. 1999;11:1731. doi: 10.1105/tpc.11.9.1731. [DOI] [PMC free article] [PubMed] [Google Scholar]
-6.Sumie I., Akiko K., Junichi U., Ikuo N., Kiyotaka O. The DEFECTIVE IN ANTHER DEHISCENCE1 gene encodes a novel phospholipase A1 catalyzing the initial step of jasmonic acid biosynthesis, which synchronizes pollen maturation, anther dehiscence, and flower opening in Arabidopsis. Plant Cell. 2001;10:2191. doi: 10.1105/tpc.010192. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Associated Data
-This section collects any data citations, data availability statements, or supplementary materials included in this article.
-Supplementary Materials
-Supplementary material
-mmc1.docx (10KB, docx)
-Supplementary material
-mmc2.xlsx (14.9KB, xlsx)
-Supplementary material
-mmc3.xlsx (16.8KB, xlsx)
-Supplementary material
-mmc4.xlsx (19.3KB, xlsx)
-Supplementary material
-mmc5.xlsx (14.8KB, xlsx)
-Supplementary material
-mmc6.xlsx (20KB, xlsx)
-Articles from Data in Brief are provided here courtesy of Elsevier
+Arabidopsis seeds of wild type Columbia-0 (Col-0) and SALK_063500 were obtained from the Arabidopsis Biological Resource Center [1]. Plants were grown in the growth chambers on soil at 22 °C under constant light at approaximately 80 μmol m−2 s−1. In the search for a homozygous T-DNA insertion line from SALK_063500, over a thousand progeny of the heterozygous SALK_063500 line were screened and 110 are presented in Fig. 1B. AT1G05290-LP and AT1G05290-RP primers were used to amplify the wild type allele band (991 bp) while LBa1 and AT1G05290-RP primers were used to amplify the T-DNA band (440–740 bp). No homozygous T-DNA allele lines were found. For gene expression analysis, Col-0 and SALK_063500 seeds were grown on 0.5% PhytagelTM plates (0.5× Murashige and Skoog (MS) salts [Invitrogen] containing 0.5% (w/v) sucrose, was adjusted to pH 5.72 with 1N KOH and solidified with 0.5% (w/v) PhytagelTM [Sigma]) at 22 °C under constant light condition [2]. The 12 day old plants were harvested from Phytagel plates and directly preserved in RNALater [Ambion] until ready for RNA extraction. Total RNA was extracted using the RNAeasy kits [Qiagen] according to the manufacturer's instructions. CDNA was transcribed from total RNA, using the High Capacity RNA to cDNA kit [Applied Biosystems] and RT-qPCR analysis was conducted with SYBR Green master mix [Applied Biosystems]. The 2−ΔΔCt method was used to calculate the relative expression of At1g05290 using UBQ11 (AT4G0505) as an internal control. A total of 6 replicates were used for each sample. For silique phenotypes, 30 siliques from three individuals representing the genotype were collected, imaged under the Olympus stereo dissecting microscope (SZH10) and measured using image J [3], [4]. For in vitro pollen germination studies, mature pollen was harvested from flowers left at room temperate for 2 h, and then grown overnight on slides coated with solid pollen germinating media (18% Sucrose, 0.01% Boric Acid, 1 mM CaCl2, 1 mM Ca(NO3)2, 1 mM MgSO4 and 0.5% Noble agar [Difco] was adjusted to pH 7.0 [5]. Pollen germination studies done in vivo were performed by collecting pollinated pistils 6 h after pollination and briefly fixed in ethanol:acetic acid (3:1) for 2 h at room temperature. Fixed pistils were then washed with distilled water three times and further treated in 8 M NaOH overnight. Pistil tissues were then washed in distilled water and stained with aniline blue solution (0.1% aniline blue in 0.1 M K2HPO4-KOH buffer, pH 11) for 5 h in the dark before being viewed under the Olympus BX51 compound light microscope [6].

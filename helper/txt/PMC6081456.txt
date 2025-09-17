@@ -80,28 +80,3 @@ Regression of parabola g level on duration was performed using the MATLAB fitlm(
 The MATLAB scripts implementing our analysis are available at: https://github.com/CarrCE/zerog.Data availability
 Raw and calibrated data are available via the Open Science Framework at: https://osf.io/nk2w4/.Electronic supplementary material
 41526_2018_50_MOESM1_ESM.pdf (3.3MB, pdf) Supplementary Information: Acceleration Profiles and Processing Methods for Parabolic Flight
-Acknowledgements
-We thank the MIT Media Lab Space Exploration Initiative for providing the parabolic flight. This work was supported by NASA award NNX15AF85G. N.C.B. was supported by NASA Postdoctoral Fellowship award 80NSSC17K0688.Author contributions
-C.E.C. designed the experiment. C.E.C., K.S., S.A.B., and N.C.B. built and tested the hardware. N.C.B. and M.T.Z. collected the data. C.E.C. and N.C.B. processed the data. G.R. advised on the experiment design. C.E.C. and N.C.B. wrote, and all authors edited and approved, the paper. C.E.C. is the guarantor.Competing interests
-The authors declare no competing interest.Footnotes
-1Mide Technology Corp., Slam Stick User Manual, Version 2.0
-Supported by NASA award NNX15AF85G and by the MIT Media Lab Space Exploration Initiative.
-Publisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
-Electronic supplementary material
-Supplementary information accompanies the paper on the npj Microgravity website (10.1038/s41526-018-0050-3).References
-1.Karmali F, Shelhamer M. The dynamics of parabolic flight: flight characteristics and passenger percepts. Acta Astronaut. 2008;63:594–602. doi: 10.1016/j.actaastro.2008.04.009. [DOI] [PMC free article] [PubMed] [Google Scholar]
-2.Shelhamer M. Parabolic flight as a spaceflight analog. J. Appl. Physiol. 2016;120:1442–1448. doi: 10.1152/japplphysiol.01046.2015. [DOI] [PubMed] [Google Scholar]
-3.Rai A, et al.  Expanded benefits for humanity from the International Space Station. Acta Astronaut. 2016;126:463–474. doi: 10.1016/j.actaastro.2016.06.030. [DOI] [Google Scholar]
-4.Shelhamer, M. Why send humans into space? Science and non-science motivations for human space flight. Space Policy, 10.1016/j.spacepol.2017.10.001 (2017).
-5.Smith L. Commercial space flight. Congr. Dig. 2017;96:30–31. [Google Scholar]
-6.Musk E. Making humans a multi-planetary species. New Space. 2017;5:46–61. doi: 10.1089/space.2017.29009.emu. [DOI] [Google Scholar]
-7.Lavielle M. Using penalized contrasts for the change-point problem. Signal Process. 2005;85:1501–1510. doi: 10.1016/j.sigpro.2005.01.012. [DOI] [Google Scholar]
-8.Killick R, Fearnhead P, Eckley IA. Optimal detection of change points with a linear computational cost. J. Am. Stat. Assoc. 2012;107:1590–1598. doi: 10.1080/01621459.2012.737745. [DOI] [Google Scholar]
-9.Lambot, T. & Ord, S. F. Analysis of the quality of parabolic flight. Next-Generation Suborbital Researchers Conference, https://ntrs.nasa.gov/search.jsp?R=20160007932 (2016).
-Associated Data
-This section collects any data citations, data availability statements, or supplementary materials included in this article.
-Supplementary Materials
-41526_2018_50_MOESM1_ESM.pdf (3.3MB, pdf) Supplementary Information: Acceleration Profiles and Processing Methods for Parabolic Flight
-Data Availability Statement
-Raw and calibrated data are available via the Open Science Framework at: https://osf.io/nk2w4/.
-Articles from NPJ Microgravity are provided here courtesy of Nature Publishing Group

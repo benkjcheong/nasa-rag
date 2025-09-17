@@ -464,46 +464,4 @@ Open in a new tab
 aF1, flight 1; F2, flight 2; F3, flight 3; F4, flight 4; F5, flight 5; SG, surface from CRV; SW, surface wipes from ISS environment. F and B at the end are strain numbers.
 bPMM, permanent multipurpose module; WHC, waste and hygiene compartment; ARED, advanced resistive exercise device; CRV, crew resupply vehicle; LAB, panel near portable water dispenser.
 Data availability.
-The WGS and raw data have been deposited in GenBank under the BioProject accession numbers PRJNA659567 and PRJNA667181. This project has also been deposited in the NASA GeneLab system (https://genelab-data.ndc.nasa.gov/genelab/accession/GLDS-350/). The versions described in this paper are the first versions.ACKNOWLEDGMENTS
-We thank astronauts Captain Terry Virts and Commander Jeffrey Williams for collecting samples aboard the ISS, the Implementation Team (Fathi Karouia) at NASA Ames Research Center for coordinating this effort for collecting samples from the ISS and CRV, and Aleksandra Chechinska-Sielaff for isolation of the strains. We thank Ryan Kemp (Zymo Corp.) for extracting the DNA and Dan Butler (Weill Cornell Medicine) for generating the shotgun sequencing. We also thank Anna Simpson for bioinformatic help. The Jet Propulsion Laboratory supercomputing facility staff, notably, Narendra J. (Jimmy) Patel and Edward Villanueva, is acknowledged for continuous support in providing the best possible infrastructure for BIG-DATA analysis.
-Part of the research described was carried out at the Jet Propulsion Laboratory of the California Institute of Technology under a contract with NASA. This research was funded by 2012 Space Biology NNH12ZTT001N grant 19-12829-26 under task order NNN13D111T awarded to K.V., which also funded a postdoctoral fellowship for A.B.REFERENCES
-1.Checinska Sielaff A, Urbaniak C, Mohan GBM, Stepanov VG, Tran Q, Wood JM, Minich J, McDonald D, Mayer T, Knight R, Karouia F, Fox GE, Venkateswaran K. 2019. Characterization of the total and viable bacterial and fungal communities associated with the International Space Station surfaces. Microbiome
-7:50. doi: 10.1186/s40168-019-0666-x. [DOI] [PMC free article] [PubMed] [Google Scholar]
-2.Visagie CM, Houbraken J, Frisvad JC, Hong S-B, Klaassen CHW, Perrone G, Seifert KA, Varga J, Yaguchi T, Samson RA. 2014. Identification and nomenclature of the genus Penicillium. Stud Mycol
-78:343–371. doi: 10.1016/j.simyco.2014.09.001. [DOI] [PMC free article] [PubMed] [Google Scholar]
-3.Mousavi B, Hedayati M, Hedayati N, Ilkit M, Syedmousavi S. 2016. Aspergillus species in indoor environments and their possible occupational and public health hazards. Curr Med Mycol
-2:36–42. doi: 10.18869/acadpub.cmm.2.1.36. [DOI] [PMC free article] [PubMed] [Google Scholar]
-4.Pitt JI. 1994. The current role of Aspergillus and Penicillium in human and animal health. Med Mycol
-32:17–32. doi: 10.1080/02681219480000701. [DOI] [PubMed] [Google Scholar]
-5.Guzmán-Chávez F, Zwahlen RD, Bovenberg RAL, Driessen AJM. 2018. Engineering of the filamentous fungus Penicillium chrysogenum as cell factory for natural products. Front Microbiol
-9:2768. doi: 10.3389/fmicb.2018.02768. [DOI] [PMC free article] [PubMed] [Google Scholar]
-6.Ropars J, Didiot E, de la Vega RCR, Bennetot B, Coton M, Poirier E, Coton E, Snirc A, Le Prieur S, Giraud T. 2020. Domestication of the emblematic white cheese-making fungus Penicillium camemberti and its diversification into two varieties. Curr Biol
-30:P4441–4453. doi: 10.1016/j.cub.2020.08.082. [DOI] [PubMed] [Google Scholar]
-7.Dhillon GS, Brar SK, Verma M, Tyagi RD. 2011. Utilization of different agro-industrial wastes for sustainable bioproduction of citric acid by Aspergillus niger. Biochem Eng J
-54:83–92. doi: 10.1016/j.bej.2011.02.002. [DOI] [Google Scholar]
-8.Max B, Salgado JM, Rodríguez N, Cortés S, Converti A, Domínguez JM. 2010. Biotechnological production of citric acid. Braz J Microbiol
-41:862–875. doi: 10.1590/S1517-83822010000400005. [DOI] [PMC free article] [PubMed] [Google Scholar]
-9.Xu X, Hao R, Xu H, Lu A. 2020. Removal mechanism of Pb(II) by Penicillium polonicum: immobilization, adsorption, and bioaccumulation. Sci Rep
-10:9079. doi: 10.1038/s41598-020-66025-6. [DOI] [PMC free article] [PubMed] [Google Scholar]
-10.Wang D, Bao Y-R, Yang X-X, Meng X-S, Chen G. 2015. A new alkaloid from Penicillium dipodomyicola. Chem Nat Compd
-51:733–735. doi: 10.1007/s10600-015-1395-4. [DOI] [Google Scholar]
-11.Hamed AA, Abdel-Aziz MS, Abd El Hady FK. 2018. Antimicrobial and antioxidant activities of different extracts from Aspergillus unguis SPMD-EGY grown on different media. Bull Natl Res Cent
-42:29. doi: 10.1186/s42269-018-0027-0. [DOI] [Google Scholar]
-12.Klaiklay S, Rukachaisirikul V, Aungphao W, Phongpaichit S, Sakayaroj J. 2016. Depsidone and phthalide derivatives from the soil-derived fungus Aspergillus unguis PSU-RSPG199. Tetrahedron Lett
-57:4348–4351. doi: 10.1016/j.tetlet.2016.08.040. [DOI] [Google Scholar]
-13.Banani H, Marcet-Houben M, Ballester A-R, Abbruscato P, González-Candelas L, Gabaldón T, Spadaro D. 2016. Genome sequencing and secondary metabolism of the postharvest pathogen Penicillium griseofulvum. BMC Genomics
-17:19. doi: 10.1186/s12864-015-2347-x. [DOI] [PMC free article] [PubMed] [Google Scholar]
-14.Gladieux P, Ropars J, Badouin H, Branca A, Aguileta G, de Vienne DM, Rodríguez de la Vega RC, Branco S, Giraud T. 2014. Fungal evolutionary genomics provides insight into the mechanisms of adaptive divergence in eukaryotes. Mol Ecol
-23:753–773. doi: 10.1111/mec.12631. [DOI] [PubMed] [Google Scholar]
-15.Singh NK, Bezdan D, Checinska Sielaff A, Wheeler K, Mason CE, Venkateswaran K. 2018. Multi-drug resistant Enterobacter bugandensis species isolated from the International Space Station and comparative genomic analyses with human pathogenic strains. BMC Microbiol
-18:175. doi: 10.1186/s12866-018-1325-2. [DOI] [PMC free article] [PubMed] [Google Scholar]
-16.Andrews S. 2019. FastQC: a quality control tool for high throughput sequence data. https://www.bioinformatics.babraham.ac.uk/projects/fastqc.
-17.Chen S, Zhou Y, Chen Y, Gu J. 2018. fastp: an ultra-fast all-in-one FASTQ preprocessor. Bioinformatics
-34:i884–i890. doi: 10.1093/bioinformatics/bty560. [DOI] [PMC free article] [PubMed] [Google Scholar]
-18.Bankevich A, Nurk S, Antipov D, Gurevich AA, Dvorkin M, Kulikov AS, Lesin VM, Nikolenko SI, Pham S, Prjibelski AD, Pyshkin AV, Sirotkin AV, Vyahhi N, Tesler G, Alekseyev MA, Pevzner PA. 2012. SPAdes: a new genome assembly algorithm and its applications to single-cell sequencing. J Comput Biol
-19:455–477. doi: 10.1089/cmb.2012.0021. [DOI] [PMC free article] [PubMed] [Google Scholar]
-Associated Data
-This section collects any data citations, data availability statements, or supplementary materials included in this article.
-Data Availability Statement
 The WGS and raw data have been deposited in GenBank under the BioProject accession numbers PRJNA659567 and PRJNA667181. This project has also been deposited in the NASA GeneLab system (https://genelab-data.ndc.nasa.gov/genelab/accession/GLDS-350/). The versions described in this paper are the first versions.
-Articles from Microbiology Resource Announcements are provided here courtesy of American Society for Microbiology (ASM)

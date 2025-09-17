@@ -2,15 +2,17 @@
 import os
 import re
 
-def remove_references_section(file_path):
+def remove_acknowledgements_section(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    if 'References' in content:
-        content = content.split('References')[0]
-        with open(file_path, 'w', encoding='utf-8') as f:
-            f.write(content)
-        return True
+    # Try different variations of acknowledgements
+    for ack_word in ['Acknowledgements', 'Acknowledgments', 'ACKNOWLEDGEMENTS', 'ACKNOWLEDGMENTS']:
+        if ack_word in content:
+            content = content.split(ack_word)[0]
+            with open(file_path, 'w', encoding='utf-8') as f:
+                f.write(content)
+            return True
     return False
 
 def main():
@@ -28,21 +30,21 @@ def main():
     
     # Process each file
     processed = 0
-    no_references = []
+    no_acknowledgements = []
     for txt_file in txt_files:
         file_path = os.path.join(current_dir, txt_file)
         
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read()
         
-        if 'references' in content.lower():
-            remove_references_section(file_path)
+        if any(ack in content.lower() for ack in ['acknowledgements', 'acknowledgments']):
+            remove_acknowledgements_section(file_path)
             processed += 1
         else:
-            no_references.append(txt_file)
+            no_acknowledgements.append(txt_file)
     
     print(f"Processed: {processed}/{len(txt_files)} files")
-    print(f"Files with no References section: {no_references}")
+    print(f"Files with no Acknowledgements section: {no_acknowledgements}")
 
 if __name__ == "__main__":
     main()

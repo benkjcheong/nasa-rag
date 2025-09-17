@@ -70,26 +70,4 @@ This Research Topic was conceived with the intent to present research, methods, 
 Author contributions
 AZ: Writing – original draft. CA: Writing – review & editing, Data curation. GZ: Writing – review & editing. AC-K: Writing – review & editing. JT: Writing – review & editing. LB: Writing – review & editing. PR: Writing – review & editing. HS: Writing – review & editing. VS: Writing – review & editing.Conflict of interest
 The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.Publisher’s note
-All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.References
-Chapin F. S., Walker L. R., Fastie C. L., Sharman L. C. (1994). Mechanisms of primary succession following deglaciation at Glacier Bay, Alaska. Ecol. Monogr.
-64 (2), 149–175. doi: 10.2307/2937039
-[DOI] [Google Scholar]
-Heim R. J., Bucharova A., Brodt L., Kamp J., Rieker D., Soromotin A. V., et al. (2021). Post-fire vegetation succession in the Siberian subarctic tundra over 45 years. Sci. Total Environ.
-760, 143425. doi: 10.1016/j.scitotenv.2020.143425
-[DOI] [PubMed] [Google Scholar]
-Huston M., Smith T. (1987). Plant succession: life history and competition. Am. Nat.
-130 (2), 168–198. doi: 10.1086/284704
-[DOI] [Google Scholar]
-Huwe B., Fiedler A., Moritz S., Rabbow E., de Vera J. P., Joshi J. (2019). Mosses in low earth orbit: implications for the limits of life and the habitability of Mars. Astrobiology
-19 (2), 221–232. doi: 10.1089/ast.2018.1889
-[DOI] [PubMed] [Google Scholar]
-Kapoor B., Kumar P., Verma V., Irfan M., Sharma R., Bhargava B. (2023). How plants conquered land: evolution of terrestrial adaptation. J. Evol. Biol.
-36 (1), 5–14. doi: 10.1111/jeb.14062
-[DOI] [PubMed] [Google Scholar]
-McKay C. P. (2014). Requirements and limits for life in the context of exoplanets. Proc. Natl. Acad. Sci. U.S.A.
-111 (35), 12628–12633. doi: 10.1073/pnas.1304212111
-[DOI] [PMC free article] [PubMed] [Google Scholar]
-Yuan Y., Zhao Z., Niu S., Bai Z. (2020). The reclaimed coal mine ecosystem diverges from the surrounding ecosystem and reaches a new self-sustaining state after 20-23 years of succession in the Loess Plateau area, China. Sci. Total Environ.
-727, 138739. doi: 10.1016/j.scitotenv.2020.138739
-[DOI] [PubMed] [Google Scholar]
-Articles from Frontiers in Plant Science are provided here courtesy of Frontiers Media SA
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
