@@ -1,7 +1,7 @@
 Three open terminals: Populate knowledge graph backend
 
 #1
-python3.12 -m venv venv
+python3 -m venv venv
 source ./venv/bin/activate
 pip3 install -r requirements.txt
 python3 example_usage.py //Only after #2 and #3 are running
