@@ -1,56 +1,7 @@
-Mol Microbiol. Author manuscript; available in PMC: 2015 Aug 1.
-Published in final edited form as: Mol Microbiol. 2014 Jul 6;93(3):415–425. doi: 10.1111/mmi.12665
-Search in PMC
-Search in PubMed
-View in NLM Catalog
-Add to search
-Overexpression of CupB5 activates alginate overproduction in Pseudomonas aeruginosa by a novel AlgW-dependent mechanism
-Anna K de Regt
-Anna K de Regt
-3Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02139, USA
-Find articles by Anna K de Regt
-3,‡, Yeshi Yin
-Yeshi Yin
-1Department of Biochemistry and Microbiology, Marshall University, Huntington, WV 25755, USA
-Find articles by Yeshi Yin
-1,6,‡, T Ryan Withers
-T Ryan Withers
-1Department of Biochemistry and Microbiology, Marshall University, Huntington, WV 25755, USA
-Find articles by T Ryan Withers
-1, Xin Wang
-Xin Wang
-4Institute of Plant Protection and Microbiology, Zhejiang Academy of Agricultural Sciences, No. 198, Shiqiao Road, Hangzhou, 310021, China
-Find articles by Xin Wang
-4, Tania A Baker
-Tania A Baker
-3Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02139, USA
-Find articles by Tania A Baker
-3, Robert T Sauer
-Robert T Sauer
-3Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02139, USA
-Find articles by Robert T Sauer
-3, Hongwei D Yu
-Hongwei D Yu
-1Department of Biochemistry and Microbiology, Marshall University, Huntington, WV 25755, USA
-2Department of Pediatrics Joan C. Edwards School of Medicine at Marshall University, Huntington, WV 25755, USA
-5Progenesis Technologies, LLC, 1111 Veterans Memorial Blvd., Huntington, WV 25701, USA
-Find articles by Hongwei D Yu
-1,2,5,*
-Author information
-Article notes
-Copyright and License information
-1Department of Biochemistry and Microbiology, Marshall University, Huntington, WV 25755, USA
-2Department of Pediatrics Joan C. Edwards School of Medicine at Marshall University, Huntington, WV 25755, USA
-3Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 02139, USA
-4Institute of Plant Protection and Microbiology, Zhejiang Academy of Agricultural Sciences, No. 198, Shiqiao Road, Hangzhou, 310021, China
-5Progenesis Technologies, LLC, 1111 Veterans Memorial Blvd., Huntington, WV 25701, USA
-*Corresponding author: yuh@marshall.edu; Tel: 304-696-7356; Fax: 304-696-7207
-6Current Address: Institute of Plant Protection and Microbiology, Zhejiang Academy of Agricultural Sciences, Hangzhou, China
-‡These authors contributed equally to this work.
-Issue date 2014 Aug.
-PMC Copyright notice
-PMCID: PMC4116675  NIHMSID: NIHMS604546  PMID: 24913916
-The publisher's version of this article is available at Mol Microbiol
+Title: Overexpression of CupB5 activates alginate overproduction in Pseudomonas aeruginosa by a novel AlgW-dependent mechanism
+
+Authors: de Regt, Anna K, Yin, Yeshi, Withers, T Ryan, Wang, Xin, Baker, Tania A
+
 Summary
 In P. aeruginosa, alginate overproduction, also known as mucoidy, is negatively regulated by the transmembrane protein MucA, which sequesters the alternative sigma factor AlgU. MucA is degraded via a proteolysis pathway that frees AlgU from sequestration, activating alginate biosynthesis. Initiation of this pathway normally requires two signals: peptide sequences in unassembled outer-membrane proteins (OMPs) activate the AlgW protease, and unassembled lipopolysaccharides bind periplasmic MucB, releasing MucA and facilitating its proteolysis by activated AlgW. To search for novel alginate regulators, we screened a transposon library in the non-mucoid reference strain PAO1, and identified a mutant that confers mucoidy through overexpression of a protein encoded by the chaperone-usher pathway gene cupB5. CupB5-dependent mucoidy occurs through the AlgU pathway and can be reversed by overexpression of MucA or MucB. In the presence of activating OMP peptides, peptides corresponding to a region of CupB5 needed for mucoidy further stimulated AlgW cleavage of MucA in vitro. Moreover, the CupB5 peptide allowed OMP-activated AlgW cleavage of MucA in the presence of the MucB inhibitor. These results support a novel mechanism for conversion to mucoidy in which the proteolytic activity of AlgW and its ability to compete with MucB for MucA is mediated by independent peptide signals.
 Keywords: Pseudomonas aeruginosa, alginate, MucA, MucB, CupB5, signal transductionIntroduction

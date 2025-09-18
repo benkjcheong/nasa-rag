@@ -1,46 +1,7 @@
-Cell Microbiol. Author manuscript; available in PMC: 2017 Nov 1.
-Published in final edited form as: Cell Microbiol. 2016 May 3;18(11):1642–1652. doi: 10.1111/cmi.12602
-Search in PMC
-Search in PubMed
-View in NLM Catalog
-Add to search
-Environmental cues and symbiont microbe-associated molecular patterns function in concert to drive the daily remodelling of the crypt-cell brush border of the Euprymna scolopes light organ
-Elizabeth AC Heath-Heckman
-Elizabeth AC Heath-Heckman
-1Department of Medical Microbiology and Immunology, University of Wisconsin – Madison, Madison, WI, 53706, USA
-Find articles by Elizabeth AC Heath-Heckman
-1,†, Jamie Foster
-Jamie Foster
-2Department of Microbiology and Cell Science, University of Florida, Space Life Science Laboratory, Merritt Island, FL, 32953, USA
-Find articles by Jamie Foster
-2, Michael A Apicella
-Michael A Apicella
-3Department of Microbiology, University of Iowa, Iowa City, IA, 52246, USA
-Find articles by Michael A Apicella
-3, William E Goldman
-William E Goldman
-4Department of Microbiology and Immunology, University of North Carolina, Chapel Hill, NC, 27599, USA
-Find articles by William E Goldman
-4, Margaret McFall-Ngai
-Margaret McFall-Ngai
-1Department of Medical Microbiology and Immunology, University of Wisconsin – Madison, Madison, WI, 53706, USA
-5PBRC, Kewalo Marine Laboratory, University of Hawaii, 41 Ahui Street, Honolulu, HI, 96813, USA
-Find articles by Margaret McFall-Ngai
-1,5,*
-Author information
-Article notes
-Copyright and License information
-1Department of Medical Microbiology and Immunology, University of Wisconsin – Madison, Madison, WI, 53706, USA
-2Department of Microbiology and Cell Science, University of Florida, Space Life Science Laboratory, Merritt Island, FL, 32953, USA
-3Department of Microbiology, University of Iowa, Iowa City, IA, 52246, USA
-4Department of Microbiology and Immunology, University of North Carolina, Chapel Hill, NC, 27599, USA
-5PBRC, Kewalo Marine Laboratory, University of Hawaii, 41 Ahui Street, Honolulu, HI, 96813, USA
-*For correspondence. mcfallng@hawaii.edu; Tel. (808) 956 8838; Fax: (808) 599 4817
-†Department of Molecular and Cell Biology, University of California – Berkeley, Berkeley, CA 94720, USA.
-Issue date 2016 Nov.
-PMC Copyright notice
-PMCID: PMC5219934  NIHMSID: NIHMS838977  PMID: 27062511
-The publisher's version of this article is available at Cell Microbiol
+Title: Environmental cues and symbiont microbe-associated molecular patterns function in concert to drive the daily remodelling of the crypt-cell brush border of the Euprymna scolopes light organ
+
+Authors: Heath-Heckman, Elizabeth AC, Foster, Jamie, Apicella, Michael A, Goldman, William E, McFall-Ngai, Margaret
+
 Summary
 Recent research has shown that the microbiota affects the biology of associated host epithelial tissues, including their circadian rhythms, although few data are available on how such influences shape the microarchitecture of the brush border. The squid-vibrio system exhibits two modifications of the brush border that supports the symbionts: effacement and repolarization. Together these occur on a daily rhythm in adult animals, at the dawn expulsion of symbionts into the environment, and symbiont colonization of the juvenile host induces an increase in microvillar density. Here we sought to define how these processes are related and the roles of both symbiont colonization and environmental cues. Ultrastructural analyses showed that the juvenile-organ brush borders also efface concomitantly with daily dawn-cued expulsion of symbionts. Manipulation of the environmental light cue and juvenile symbiotic state demonstrated that this behaviour requires the light cue, but not colonization. In contrast, symbionts were required for the observed increase in microvillar density that accompanies post dawn brush-border repolarization; this increase was induced solely by host exposure to phosphorylated lipid A of symbiont cells. These data demonstrate that a partnering of environmental and symbiont cues shapes the brush border and that microbe-associated molecular patterns play a role in the regulation of brush-border microarchitecture.Introduction
 Perhaps, the most common type of animal symbiosis, whether pathogenic, commensal or mutualistic, is the interaction of microbial cells along the apical surfaces of polarized host epithelia (for reviews, see Fraune and Bosch, 2010; Hooper, 2015). At these interfaces, the partners influence one another’s form and function. For example, enteropathogenic Escherichia coli (EPEC) efface the brush border and hijack the cytoskeletal proteins of the epithelia to create features that promote pathogenesis (Celli et al., 2000). The microbiota of both invertebrates and vertebrates can induce an increase in the density of microvilli (Cerezuela et al., 2012; Chichlowski et al., 2007; Kuhlwein et al., 2013; Lamarcq and McFall-Ngai, 1998; Ringø et al., 2007; Shukla et al., 2012) and, reciprocally, microvillus-derived vesicles of the brush border help to communicate with and control bacterial populations (Shifrin et al., 2012). In addition, it has long been known that epithelial tissues associated with microbes, such as the gut, are on profound daily rhythms. Only recently, however, has it been demonstrated that the microbial partners play a role in the control of these rhythms (Heath-Heckman et al., 2013; Leone et al., 2015; Rosselot et al., 2016; Wier et al., 2010), but the extent to which daily rhythms affect the microarchitecture of the brush border has not been characterized.

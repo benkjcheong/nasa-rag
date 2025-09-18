@@ -1,47 +1,7 @@
-Plant J. Author manuscript; available in PMC: 2018 May 1.
-Published in final edited form as: Plant J. 2017 Mar 30;90(4):698–707. doi: 10.1111/tpj.13492
-Search in PMC
-Search in PubMed
-View in NLM Catalog
-Add to search
-Orchestrating rapid long-distance signaling in plants with Ca2+, ROS and electrical signals
-Won-Gyu Choi
-Won-Gyu Choi
-1Department of Biochemistry and Molecular Biology, University of Nevada, 1664 North Virginia Street, Reno, NV 89557, USA
-Find articles by Won-Gyu Choi
-1,*, Gad Miller
-Gad Miller
-2The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, The Gonda Medical Diagnostic Research Building (204), Room 211, Ramat-Gan 52900, Israel
-Find articles by Gad Miller
-2, Ian Wallace
-Ian Wallace
-1Department of Biochemistry and Molecular Biology, University of Nevada, 1664 North Virginia Street, Reno, NV 89557, USA
-Find articles by Ian Wallace
-1, Jeffrey Harper
-Jeffrey Harper
-1Department of Biochemistry and Molecular Biology, University of Nevada, 1664 North Virginia Street, Reno, NV 89557, USA
-Find articles by Jeffrey Harper
-1,*, Ron Mittler
-Ron Mittler
-3Department of Biological Sciences, College of Arts and Sciences, University of North Texas, 1155 Union Circle #305220, Denton, TX 76203, USA
-Find articles by Ron Mittler
-3, Simon Gilroy
-Simon Gilroy
-4Department of Botany, University of Wisconsin, Birge Hall, 430 Lincoln Drive, Madison, WI 53706, USA
-Find articles by Simon Gilroy
-4
-Author information
-Article notes
-Copyright and License information
-1Department of Biochemistry and Molecular Biology, University of Nevada, 1664 North Virginia Street, Reno, NV 89557, USA
-2The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, The Gonda Medical Diagnostic Research Building (204), Room 211, Ramat-Gan 52900, Israel
-3Department of Biological Sciences, College of Arts and Sciences, University of North Texas, 1155 Union Circle #305220, Denton, TX 76203, USA
-4Department of Botany, University of Wisconsin, Birge Hall, 430 Lincoln Drive, Madison, WI 53706, USA
-*For correspondence (wgchoi@unr.edu or jfharper@unr.edu)
-Issue date 2017 May.
-PMC Copyright notice
-PMCID: PMC5677518  NIHMSID: NIHMS915018  PMID: 28112437
-The publisher's version of this article is available at Plant J
+Title: Orchestrating rapid long-distance signaling in plants with Ca2+, ROS and electrical signals
+
+Authors: Won-Gyu Choi, Gad Miller, Ian Wallace, Jeffrey Harper, Ron Mittler, Simon Gilroy
+
 SUMMARY
 Plants show a rapid systemic response to a wide range of environmental stresses, where the signals from the site of stimulus perception are transmitted to distal organs to elicit plant-wide responses. A wide range of signaling molecules are trafficked through the plant, but a trio of potentially interacting messengers, reactive oxygen species (ROS), Ca2+ and electrical signaling (‘trio signaling’) appear to form a network supporting rapid signal transmission. The molecular components underlying this rapid communication are beginning to be identified, such as the ROS producing NAPDH oxidase RBOHD, the ion channel two pore channel 1 (TPC1), and glutamate receptor-like channels GLR3.3 and GLR3.6. The plant cell wall presents a plant-specific route for possible propagation of signals from cell to cell. However, the degree to which the cell wall limits information exchange between cells via transfer of small molecules through an extracellular route, or whether it provides an environment to facilitate transmission of regulators such as ROS or H+ remains to be determined. Similarly, the role of plasmodesmata as both conduits and gatekeepers for the propagation of rapid cell-to-cell signaling remains a key open question. Regardless of how signals move from cell to cell, they help prepare distant parts of the plant for impending challenges from specific biotic or abiotic stresses.
 Keywords: calcium, cell-to-cell communication, plasmodesmata, reactive oxygen species, systemic signalingINTRODUCTION

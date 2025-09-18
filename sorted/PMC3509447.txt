@@ -1,57 +1,7 @@
-Biol Open. 2012 Apr 30;1(6):570–581. doi: 10.1242/bio.2012687
-Search in PMC
-Search in PubMed
-View in NLM Catalog
-Add to search
-Hypergravity disruption of homeorhetic adaptations to lactation in rat dams include changes in circadian clocks
-Theresa Casey
-Theresa Casey
-1Department of Animal Science, Purdue University, West Lafayette, IN 47907, USA
-Find articles by Theresa Casey
-1,*, Elzbieta I Zakrzewska
-Elzbieta I Zakrzewska
-2Department of Animal Science, University of Vermont, Burlington, VT 05405, USA
-Find articles by Elzbieta I Zakrzewska
-2, Rhonda L Maple
-Rhonda L Maple
-2Department of Animal Science, University of Vermont, Burlington, VT 05405, USA
-Find articles by Rhonda L Maple
-2, Laura Lintault
-Laura Lintault
-2Department of Animal Science, University of Vermont, Burlington, VT 05405, USA
-Find articles by Laura Lintault
-2, Charles E Wade
-Charles E Wade
-3NASA/Ames Research Center, Moffett Field, CA 94035-1000, USA
-Find articles by Charles E Wade
-3, Lisa A Baer
-Lisa A Baer
-3NASA/Ames Research Center, Moffett Field, CA 94035-1000, USA
-Find articles by Lisa A Baer
-3, April E Ronca
-April E Ronca
-3NASA/Ames Research Center, Moffett Field, CA 94035-1000, USA
-4Department of Obstetrics and Gynecology, Wake Forest University School of Medicine, Winston-Salem, NC 27101, USA
-Find articles by April E Ronca
-3,4,‡, Karen Plaut
-Karen Plaut
-1Department of Animal Science, Purdue University, West Lafayette, IN 47907, USA
-Find articles by Karen Plaut
-1,‡
-Author information
-Article notes
-Copyright and License information
-1Department of Animal Science, Purdue University, West Lafayette, IN 47907, USA
-2Department of Animal Science, University of Vermont, Burlington, VT 05405, USA
-3NASA/Ames Research Center, Moffett Field, CA 94035-1000, USA
-4Department of Obstetrics and Gynecology, Wake Forest University School of Medicine, Winston-Salem, NC 27101, USA
-*Author for correspondence (theresa-casey@purdue.edu)
-‡These authors contributed equally to this project
-Collection date 2012 Jun 15.
-© 2012. Published by The Company of Biologists Ltd
-This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial Share Alike License (http://creativecommons.org/licenses/by-nc-sa/3.0/).
-PMC Copyright notice
-PMCID: PMC3509447  PMID: 23213450
+Title: Hypergravity disruption of homeorhetic adaptations to lactation in rat dams
+
+Authors: Theresa Casey, Elzbieta I Zakrzewska, Rhonda L Maple, Laura Lintault, Charles E Wade, Lisa A Baer, April E Ronca, Karen Plaut
+
 Summary
 Altered gravity load induced by spaceflight (microgravity) and centrifugation (hypergravity) is associated with changes in circadian, metabolic, and reproductive systems. Exposure to 2-g hypergravity (HG) during pregnancy and lactation decreased rate of mammary metabolic activity and increased pup mortality. We hypothesize HG disrupted maternal homeorhetic responses to pregnancy and lactation are due to changes in maternal metabolism, hormone concentrations, and maternal behavior related to gravity induced alterations in circadian clocks. Effect of HG exposure on mammary, liver and adipose tissue metabolism, plasma hormones and maternal behavior were analyzed in rat dams from mid-pregnancy (Gestational day [G]11) through early lactation (Postnatal day [P]3); comparisons were made across five time-points: G20, G21, P0 (labor and delivery), P1 and P3. Blood, mammary, liver, and adipose tissue were collected for analyzing plasma hormones, glucose oxidation to CO2 and incorporation into lipids, or gene expression. Maternal behavioral phenotyping was conducted using time-lapse videographic analyses. Dam and fetal-pup body mass were significantly reduced in HG in all age groups. HG did not affect labor and delivery; however, HG pups experienced a greater rate of mortality. PRL, corticosterone, and insulin levels and receptor genes were altered by HG. Mammary, liver and adipose tissue metabolism and expression of genes that regulate lipid metabolism were altered by HG exposure. Exposure to HG significantly changed expression of core clock genes in mammary and liver and circadian rhythms of maternal behavior. Gravity load alterations in dam's circadian system may have impacted homeorhetic adaptations needed for a successful lactation.
 Keywords: Circadian, Hypergravity, Homeorhesis, Lactation, Mammary, PregnancyIntroduction

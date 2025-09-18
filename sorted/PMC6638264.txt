@@ -1,36 +1,7 @@
-Mol Plant Pathol. 2016 Sep 15;18(7):1012–1023. doi: 10.1111/mpp.12458
-Search in PMC
-Search in PubMed
-View in NLM Catalog
-Add to search
-Apyrase inhibitors enhance the ability of diverse fungicides to inhibit the growth of different plant‐pathogenic fungi
-Manas Kumar Tripathy
-Manas Kumar Tripathy
-1Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, 78712, USA
-Find articles by Manas Kumar Tripathy
-1, Gayani Weeraratne
-Gayani Weeraratne
-1Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, 78712, USA
-Find articles by Gayani Weeraratne
-1, Greg Clark
-Greg Clark
-1Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, 78712, USA
-Find articles by Greg Clark
-1, Stanley J Roux
-Stanley J Roux
-1Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, 78712, USA
-Find articles by Stanley J Roux
-1,✉
-Author information
-Article notes
-Copyright and License information
-1Department of Molecular Biosciences, University of Texas at Austin, Austin, TX, 78712, USA
-*Correspondence: Email: sroux@austin.utexas.edu
-✉Corresponding author.
-Received 2016 May 4; Revised 2016 Jun 24; Accepted 2016 Jul 6; Collection date 2017 Sep.
-© 2016 BSPP AND JOHN WILEY & SONS LTD
-PMC Copyright notice
-PMCID: PMC6638264  PMID: 27392542
+Title: Apyrase inhibitors enhance the ability of diverse fungicides to inhibit the growth of different plant‐pathogenic fungi
+
+Authors: Tripathy, Manas Kumar, Weeraratne, Gayani, Clark, Greg, Roux, Stanley J
+
 Summary
 A previous study has demonstrated that the treatment of Arabidopsis plants with chemical inhibitors of apyrase enzymes increases their sensitivity to herbicides. In this study, we found that the addition of the same or related apyrase inhibitors could potentiate the ability of different fungicides to inhibit the growth of five different pathogenic fungi in plate growth assays. The growth of all five fungi was partially inhibited by three commonly used fungicides: copper octanoate, myclobutanil and propiconazole. However, when these fungicides were individually tested in combination with any one of four different apyrase inhibitors (AI.1, AI.10, AI.13 or AI.15), their potency to inhibit the growth of five fungal pathogens was increased significantly relative to their application alone. The apyrase inhibitors were most effective in potentiating the ability of copper octanoate to inhibit fungal growth, and least effective in combination with propiconazole. Among the five pathogens assayed, that most sensitive to the fungicide‐potentiating effects of the inhibitors was Sclerotinia sclerotiorum. Overall, among the 60 treatment combinations tested (five pathogens, four apyrase inhibitors, three fungicides), the addition of apyrase inhibitors increased significantly the sensitivity of fungi to the fungicide treatments in 53 of the combinations. Consistent with their predicted mode of action, inhibitors AI.1, AI.10 and AI.13 each increased the level of propiconazole retained in one of the fungi, suggesting that they could partially block the ability of efflux transporters to remove propiconazole from these fungi.
 Keywords: ABC transporters, copper octanoate, myclobutanil, plant pathogens, propiconazoleIntroduction

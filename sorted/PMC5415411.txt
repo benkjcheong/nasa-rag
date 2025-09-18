@@ -1,41 +1,7 @@
-Plant J. Author manuscript; available in PMC: 2018 May 1.
-Published in final edited form as: Plant J. 2017 Mar 10;90(4):671–682. doi: 10.1111/tpj.13449
-Search in PMC
-Search in PubMed
-View in NLM Catalog
-Add to search
-Maintaining the Factory: The Roles of the Unfolded Protein Response in Cellular Homeostasis in Plants
-Evan Angelos
-Evan Angelos
-1MSU-DOE Plant Research Lab and Plant Biology Department, Michigan State University, East Lansing, MI 48824, USA
-Find articles by Evan Angelos
-1, Cristina Ruberti
-Cristina Ruberti
-1MSU-DOE Plant Research Lab and Plant Biology Department, Michigan State University, East Lansing, MI 48824, USA
-Find articles by Cristina Ruberti
-1, Sang-Jin Kim
-Sang-Jin Kim
-1MSU-DOE Plant Research Lab and Plant Biology Department, Michigan State University, East Lansing, MI 48824, USA
-3Great Lakes Bioenergy Research Center, Michigan State University, East Lansing, MI 48824, USA
-Find articles by Sang-Jin Kim
-1,3, Federica Brandizzi
-Federica Brandizzi
-1MSU-DOE Plant Research Lab and Plant Biology Department, Michigan State University, East Lansing, MI 48824, USA
-2Department of Plant Biology, Michigan State University, East Lansing, MI 48824, USA
-3Great Lakes Bioenergy Research Center, Michigan State University, East Lansing, MI 48824, USA
-Find articles by Federica Brandizzi
-1,2,3
-Author information
-Article notes
-Copyright and License information
-1MSU-DOE Plant Research Lab and Plant Biology Department, Michigan State University, East Lansing, MI 48824, USA
-2Department of Plant Biology, Michigan State University, East Lansing, MI 48824, USA
-3Great Lakes Bioenergy Research Center, Michigan State University, East Lansing, MI 48824, USA
-✉Corresponding author: Federica Brandizzi, fb@msu.edu, Phone: (517) 353-7872, Fax: (517) 353-9168
-Issue date 2017 May.
-PMC Copyright notice
-PMCID: PMC5415411  NIHMSID: NIHMS837856  PMID: 27943485
-The publisher's version of this article is available at Plant J
+Title: Maintaining the Factory: The Roles of the Unfolded Protein Response in Cellular Homeostasis in Plants
+
+Authors: Angelos, Evan, Ruberti, Cristina, Kim, Sang-Jin, Brandizzi, Federica
+
 Summary
 Much like a factory, the endoplasmic reticulum assembles simple cellular building blocks into complex molecular machines known as proteins. In order to protect the delicate protein folding process and ensure the proper cellular delivery of protein products under environmental stresses, eukaryotes have evolved a set of signaling mechanisms known as the unfolded protein response (UPR) to increase the folding capacity of the endoplasmic reticulum. This process is particularly important in plants, because their sessile nature commands adaptation for survival rather than escape from stress. As such, plants make special use of the UPR, and evidence indicates that the master regulators and downstream effectors of the UPR have distinct roles in mediating cellular processes that affect organism growth and development as well as stress responses. In this review we outline recent developments in this field that support a strong relevance of the UPR to many areas of plant life.
 Keywords: Unfolded protein response, ER stress, IRE1, bZIP60, bZIP28, Arabidopsis thalianaIntroduction

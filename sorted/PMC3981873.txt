@@ -1,48 +1,7 @@
-Plant J. Author manuscript; available in PMC: 2015 Jan 1.
-Published in final edited form as: Plant J. 2013 Dec 3;77(1):97–107. doi: 10.1111/tpj.12373
-Search in PMC
-Search in PubMed
-View in NLM Catalog
-Add to search
-INTER-REGULATION OF THE UNFOLDED PROTEIN RESPONSE AND AUXIN SIGNALING
-Yani Chen
-Yani Chen
-1Michigan State University/Department of Energy Plant Research Laboratory and Department of Plant Biology, Michigan State University, East Lansing, MI 48824, USA
-Find articles by Yani Chen
-1, Kyaw Aung
-Kyaw Aung
-1Michigan State University/Department of Energy Plant Research Laboratory and Department of Plant Biology, Michigan State University, East Lansing, MI 48824, USA
-Find articles by Kyaw Aung
-1, Jakub Rolčík
-Jakub Rolčík
-2Laboratory of Growth Regulators, Faculty of Science, Palacký University and Institute of Experimental Botany AS CR, Šlechtitelů 11, 78371 Olomouc, Czech Republic
-Find articles by Jakub Rolčík
-2, Kathryn Walicki
-Kathryn Walicki
-1Michigan State University/Department of Energy Plant Research Laboratory and Department of Plant Biology, Michigan State University, East Lansing, MI 48824, USA
-Find articles by Kathryn Walicki
-1, Jiří Friml
-Jiří Friml
-3Department of Functional Genomics and Proteomics, Central European Institute of Technology (CEITEC), Masaryk University, 62500 Brno, Czech Republic
-4Institute of Science and Technology Austria (IST Austria), 3400 Klosterneuburg, Austria
-Find articles by Jiří Friml
-3,4, Federica Brandizzi
-Federica Brandizzi
-1Michigan State University/Department of Energy Plant Research Laboratory and Department of Plant Biology, Michigan State University, East Lansing, MI 48824, USA
-Find articles by Federica Brandizzi
-1
-Author information
-Article notes
-Copyright and License information
-1Michigan State University/Department of Energy Plant Research Laboratory and Department of Plant Biology, Michigan State University, East Lansing, MI 48824, USA
-2Laboratory of Growth Regulators, Faculty of Science, Palacký University and Institute of Experimental Botany AS CR, Šlechtitelů 11, 78371 Olomouc, Czech Republic
-3Department of Functional Genomics and Proteomics, Central European Institute of Technology (CEITEC), Masaryk University, 62500 Brno, Czech Republic
-4Institute of Science and Technology Austria (IST Austria), 3400 Klosterneuburg, Austria
-✉Correspondence to: Federica Brandizzi, Tel: +1 517 353 7872; Fax: +1 517 353 9168; fb@msu.edu
-Issue date 2014 Jan.
-PMC Copyright notice
-PMCID: PMC3981873  NIHMSID: NIHMS538200  PMID: 24180465
-The publisher's version of this article is available at Plant J
+Title: INTER-REGULATION OF THE UNFOLDED PROTEIN RESPONSE AND AUXIN SIGNALING
+
+Authors: Yani Chen, Kyaw Aung, Jakub Rolčík, Kathryn Walicki, Jiří Friml, Federica Brandizzi
+
 SUMMARY
 The unfolded protein response (UPR) is a signaling network triggered by overload of protein-folding demand in the endoplasmic reticulum (ER), a condition termed ER stress. The UPR is critical for growth and development; nonetheless, connections between the UPR and other cellular regulatory processes remain largely unknown. Here, we identify a link between the UPR and the phytohormone auxin, a master regulator of plant physiology. We show that ER stress triggers down-regulation of auxin sensors and transporters in Arabidopsis thaliana. We also demonstrate that an Arabidopsis mutant of a conserved ER stress sensor IRE1 exhibits defects in the auxin response and levels. These data not only support that the plant IRE1 is required for auxin homeostasis, they also reveal a species-specific feature of IRE1 in multicellular eukaryotes. Furthermore, by establishing that UPR activation is reduced in mutants of ER-localized auxin transporters, including PIN5, we define a long-neglected biological significance of ER-based auxin regulation. We further examine the functional relationship of IRE1 and PIN5 by showing that an ire1 pin5 triple mutant enhances defects of UPR activation and auxin homeostasis in ire1 or pin5. Our results imply that the plant UPR has evolved a hormone-dependent strategy for coordinating ER function with physiological processes.
 Keywords: ER stress, unfolded protein response, auxin response, IRE1, PIN5, Arabidopsis thalianaINTRODUCTION

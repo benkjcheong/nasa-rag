@@ -1,66 +1,7 @@
-iScience. 2022 Sep 24;25(10):105213. doi: 10.1016/j.isci.2022.105213
-Search in PMC
-Search in PubMed
-View in NLM Catalog
-Add to search
-Muscle atrophy phenotype gene expression during spaceflight is linked to a metabolic crosstalk in both the liver and the muscle in mice
-Geraldine Vitry
-Geraldine Vitry
-1International Space University, 67400 Illkirch-Graffenstaden, France
-2Staffordshire University, Department of Biological Sciences, School of Health, Science and Wellbeing, Staffordshire University, Science Centre, Leek Road, Stoke-on-Trent ST4 2DF, UK
-Find articles by Geraldine Vitry
-1,2, Rebecca Finch
-Rebecca Finch
-2Staffordshire University, Department of Biological Sciences, School of Health, Science and Wellbeing, Staffordshire University, Science Centre, Leek Road, Stoke-on-Trent ST4 2DF, UK
-Find articles by Rebecca Finch
-2, Gavin Mcstay
-Gavin Mcstay
-2Staffordshire University, Department of Biological Sciences, School of Health, Science and Wellbeing, Staffordshire University, Science Centre, Leek Road, Stoke-on-Trent ST4 2DF, UK
-Find articles by Gavin Mcstay
-2, Afshin Behesti
-Afshin Behesti
-3KBR, Space Biosciences Division, NASA Ames Research Center, Moffett Field, CA 94035, USA
-4Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA
-Find articles by Afshin Behesti
-3,4, Sébastien Déjean
-Sébastien Déjean
-5Institut de Mathématiques de Toulouse, UMR5219, Université de Toulouse, CNRS, UPS, Cedex 9, 31062 Toulouse, France
-Find articles by Sébastien Déjean
-5, Tricia Larose
-Tricia Larose
-1International Space University, 67400 Illkirch-Graffenstaden, France
-6Department of Community Medicine and Global Health, Institute of Health and Society, University of Oslo, Oslo, Norway
-Find articles by Tricia Larose
-1,6, Virginia Wotring
-Virginia Wotring
-1International Space University, 67400 Illkirch-Graffenstaden, France
-7Center for Space Medicine, Baylor College of Medicine, Houston, TX 77030, USA
-Find articles by Virginia Wotring
-1,7,8,∗, Willian Abraham da Silveira
-Willian Abraham da Silveira
-1International Space University, 67400 Illkirch-Graffenstaden, France
-2Staffordshire University, Department of Biological Sciences, School of Health, Science and Wellbeing, Staffordshire University, Science Centre, Leek Road, Stoke-on-Trent ST4 2DF, UK
-Find articles by Willian Abraham da Silveira
-1,2,8,9,∗∗
-Author information
-Article notes
-Copyright and License information
-1International Space University, 67400 Illkirch-Graffenstaden, France
-2Staffordshire University, Department of Biological Sciences, School of Health, Science and Wellbeing, Staffordshire University, Science Centre, Leek Road, Stoke-on-Trent ST4 2DF, UK
-3KBR, Space Biosciences Division, NASA Ames Research Center, Moffett Field, CA 94035, USA
-4Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA
-5Institut de Mathématiques de Toulouse, UMR5219, Université de Toulouse, CNRS, UPS, Cedex 9, 31062 Toulouse, France
-6Department of Community Medicine and Global Health, Institute of Health and Society, University of Oslo, Oslo, Norway
-7Center for Space Medicine, Baylor College of Medicine, Houston, TX 77030, USA
-∗Corresponding author virginia.wotring@isunet.edu
-∗∗Corresponding author willian.dasilveira@staffs.ac.uk
-8These authors contributed equally
-9Lead contact
-Received 2022 Apr 8; Revised 2022 Aug 30; Accepted 2022 Sep 22; Collection date 2022 Oct 21.
-© 2022 The Author(s)
-This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
-PMC Copyright notice
-PMCID: PMC9576569  PMID: 36267920
+Title: Muscle atrophy phenotype gene expression during spaceflight is linked to a metabolic crosstalk in both the liver and the muscle in mice
+
+Authors: Geraldine Vitry, Rebecca Finch, Gavin Mcstay, Afshin Behesti, Sébastien Déjean, Tricia Larose, Virginia Wotring, Willian Abraham da Silveira
+
 Summary
 Human expansion in space is hampered by the physiological risks of spaceflight. The muscle and the liver are among the most affected tissues during spaceflight and their relationships in response to space exposure have never been studied. We compared the transcriptome response of liver and quadriceps from mice on NASA RR1 mission, after 37 days of exposure to spaceflight using GSEA, ORA, and sparse partial least square-differential analysis. We found that lipid metabolism is the most affected biological process between the two organs. A specific gene cluster expression pattern in the liver strongly correlated with glucose sparing and an energy-saving response affecting high energy demand process gene expression such as DNA repair, autophagy, and translation in the muscle. Our results show that impaired lipid metabolism gene expression in the liver and muscle atrophy gene expression are two paired events during spaceflight, for which dietary changes represent a possible countermeasure.
 Subject areas: Space medicine, Omics, Space sciences, AstronauticsHighlights

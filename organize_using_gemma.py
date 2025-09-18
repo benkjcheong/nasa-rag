@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-4gemma_authors.py - Use Gemma to accurately extract authors from NASA papers
+Use Gemma to accurately extract authors from NASA papers
 """
 
 import os
@@ -13,12 +13,21 @@ import time
 def extract_title_and_authors_with_gemma(content, pmc_id):
     """Use Gemma to extract title and authors from paper content"""
     
-    # Find Abstract section and take everything before it
+    # Find Abstract and Summary sections
     abstract_pos = content.lower().find('abstract')
-    if abstract_pos == -1:
-        return None, None  # No abstract found, skip this file
+    summary_pos = content.lower().find('summary')
     
-    text_sample = content[:abstract_pos]
+    # Skip only if neither abstract nor summary is found
+    if abstract_pos == -1 and summary_pos == -1:
+        return None, None  # No abstract or summary found, skip this file
+    
+    # Use whichever comes first (or the one that exists)
+    if abstract_pos != -1 and summary_pos != -1:
+        text_sample = content[:min(abstract_pos, summary_pos)]
+    elif abstract_pos != -1:
+        text_sample = content[:abstract_pos]
+    else:
+        text_sample = content[:summary_pos]
     
     prompt = f"""Extract the title and all author names from this scientific paper text. 
 
@@ -99,17 +108,26 @@ def process_files_with_gemma(input_dir, output_dir):
                 skipped_files.append(pmc_id)
                 continue
             
-            # Find Abstract position to replace everything before it
+            # Find Abstract and Summary positions
             abstract_pos = content.lower().find('abstract')
+            summary_pos = content.lower().find('summary')
             
-            # Create clean content: Title + Authors + content from Abstract onwards
+            # Determine starting position (use whichever comes first)
+            if abstract_pos != -1 and summary_pos != -1:
+                start_pos = min(abstract_pos, summary_pos)
+            elif abstract_pos != -1:
+                start_pos = abstract_pos
+            else:
+                start_pos = summary_pos
+            
+            # Create clean content: Title + Authors + content from Abstract/Summary onwards
             clean_content = f"Title: {title}\n\nAuthors: "
             if authors:
                 clean_content += ", ".join(authors)
             else:
                 clean_content += "Could not extract"
             
-            clean_content += "\n\n" + content[abstract_pos:]
+            clean_content += "\n\n" + content[start_pos:]
             
             # Write cleaned file
             output_file = output_path / f'{pmc_id}_gemma_cleaned.txt'
@@ -126,7 +144,7 @@ def process_files_with_gemma(input_dir, output_dir):
     
     print(f"Completed processing {processed} files with Gemma")
     if skipped_files:
-        print(f"\nSkipped {len(skipped_files)} files without 'Abstract':")
+        print(f"\nSkipped {len(skipped_files)} files without 'Abstract' or 'Summary':")
         for file_id in skipped_files:
             print(f"  - {file_id}")
 

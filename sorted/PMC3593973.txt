@@ -1,34 +1,7 @@
-Cell Rep. Author manuscript; available in PMC: 2013 Mar 11.
-Published in final edited form as: Cell Rep. 2013 Feb 14;3(2):520–527. doi: 10.1016/j.celrep.2013.01.018
-Search in PMC
-Search in PubMed
-View in NLM Catalog
-Add to search
-Chimeras reveal a single lipid-interface residue that controls MscL channel kinetics as well as mechanosensitivity
-Li-Min Yang
-Li-Min Yang
-1Department of Physiology, UT Southwestern Medical center at Dallas, 5323 Harry Hines Blvd, Dallas TX 75390-9040
-Find articles by Li-Min Yang
-1,2, Dalian Zhong
-Dalian Zhong
-1Department of Physiology, UT Southwestern Medical center at Dallas, 5323 Harry Hines Blvd, Dallas TX 75390-9040
-Find articles by Dalian Zhong
-1,2, Paul Blount
-Paul Blount
-1Department of Physiology, UT Southwestern Medical center at Dallas, 5323 Harry Hines Blvd, Dallas TX 75390-9040
-Find articles by Paul Blount
-1,*
-Author information
-Article notes
-Copyright and License information
-1Department of Physiology, UT Southwestern Medical center at Dallas, 5323 Harry Hines Blvd, Dallas TX 75390-9040
-*Correspondence should be addressed to PB 214-645-6014 (Paul.Blount@utsouthwestern.edu)
-2These authors contributed equally to this work
-Issue date 2013 Feb 21.
-© 2013 Elsevier Inc. All rights reserved.
-PMC Copyright notice
-PMCID: PMC3593973  NIHMSID: NIHMS438457  PMID: 23416054
-The publisher's version of this article is available at Cell Rep
+Title: Chimeras reveal a single lipid-interface residue that controls MscL channel kinetics as well as mechanosensitivity
+
+Authors: Li-Min Yang, Dalian Zhong, Paul Blount
+
 Summary
 MscL, the highly conserved bacterial mechanosensitive channel of large conductance, functionally serves as an osmotic “emergency release valve”, is among the best studied mechanosensors and a paradigm of how a channel senses and responds to membrane tension. While all homologues tested thus far encode channel activity, many show functional differences. Here we tested E. coli and S aureus chimeras and find that the periplasmic region of the protein, particularly E. coli I49 and the equivalent S aureus F47 at the periplasmic lipid-aqueous interface of the first transmembrane domain, drastically influences both the open dwell time and threshold of channel opening. One mutant shows a severe hysteresis, confirming the importance of this residue in determining the energy barriers for channel gating. We propose that this site acts similar to a spring for a clasp knife, adjusting the resistance for obtaining and stabilizing an open or closed channel structure.
 Keywords: mechanosensitive channel, channel kinetics, osmoregulation, protein-lipid interactionsIntroduction
