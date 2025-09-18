@@ -81,11 +81,16 @@ def process_files_with_gemma(input_dir, output_dir):
     processed = 0
     skipped_files = []
     for file_path in txt_files:
+        pmc_id = file_path.stem
+        output_file = output_path / f'{pmc_id}_gemma_cleaned.txt'
+        
+        # Skip if already processed
+        if output_file.exists():
+            continue
+            
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 content = f.read()
-            
-            pmc_id = file_path.stem
             
             # Get title and authors from Gemma
             title, authors = extract_title_and_authors_with_gemma(content, pmc_id)
